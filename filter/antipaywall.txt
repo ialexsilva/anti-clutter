@@ -1,6 +1,6 @@
-! Title: Anti-Paywall by Alex Silva
+! Title: Anti-Clutter by Alex Silva
 ! Expires: 3 days
-! Description: Lista de filtros contra paywall de sites de nacionais e internacionais
+! Description: Lista de filtros contra anti-adblock, paywall e outros anúncios de sites de nacionais e internacionais.
 ! Homepage: https://github.com/ialexsilva/anti-paywall
 ! Licence: https://github.com/ialexsilva/anti-paywall/blob/master/LICENSE
 ! Credit: https://ialexsilva.com
