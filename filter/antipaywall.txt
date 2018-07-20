@@ -1,0 +1,40 @@
+! Title: Anti-Paywall by Alex Silva
+! Expires: 4 days
+! Description: Lista de filtros contra paywall de sites de nacionais e internacionais
+! Homepage: https://github.com/ialexsilva/anti-paywall
+! Licence: https://github.com/ialexsilva/anti-paywall
+! Credit: https://ialexsilva.com
+
+
+! O Globo - oglobo.globo.com
+||static.infoglobo.com.br/paywall/*
+oglobo.globo.com##barreiraRegisterExclusiva
+
+! Folha de S.Paulo - folha.uol.com.br
+||paywall.folha.uol.com.br/status.php
+||paywall.folha.uol.com.br/*
+folha.uol.com.br##bt-read-more-content
+
+! Estadão - estadao.com.br
+||*.estadao.com.br/paywall/pw.php
+
+! Uol - uol.com.br
+||tm.jsuol.com.br/modules/content-gate.js
+
+! JOTA - jota.info
+||*.jota.info/wp-content/themes/JOTA/assets/js/posts.js*
+jota.info##.jota-paywall
+
+! The New York Times - nytimes.com
+||*.nytimes.com/js/mtr.js
+||*.nyt.com/js/mtr.js
+
+! Washington Post - washingtonpost.com
+||*.washingtonpost.com/wp-stat/pwapi/*
+
+! Tynypass - tinypass.com
+||cdn.tinypass.com/api/tinypass.min.js
+||api.tinypass.com/tpl/*
+
+! Neatdeal - netdeal.com.br
+||netdeal.com.br/*
