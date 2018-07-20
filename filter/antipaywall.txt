@@ -1,5 +1,5 @@
 ! Title: Anti-Paywall by Alex Silva
-! Expires: 4 days
+! Expires: 3 days
 ! Description: Lista de filtros contra paywall de sites de nacionais e internacionais
 ! Homepage: https://github.com/ialexsilva/anti-paywall
 ! Licence: https://github.com/ialexsilva/anti-paywall/blob/master/LICENSE
