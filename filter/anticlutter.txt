@@ -62,3 +62,6 @@ jota.info##.jota-paywall
 !------------------------------------------------------------------!
 !------------------------- Aborrecimentos -------------------------!
 !------------------------------------------------------------------!
+
+abril.com.br##.text-center.assine-abril
+abril.com.br##.widget-abril-assinatura-full
