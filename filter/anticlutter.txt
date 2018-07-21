@@ -33,6 +33,8 @@ jota.info##.jota-paywall
 ! The New York Times - nytimes.com
 ||*.nytimes.com/js/mtr.js
 ||*.nyt.com/js/mtr.js
+nytimes.com##.InlineMessage-inline--2ysnq
+nytimes.com##.e1i2wxpm0.css-mlcs8h.shown
 
 ! Washington Post - washingtonpost.com
 ||*.washingtonpost.com/wp-stat/pwapi/*
@@ -69,6 +71,6 @@ abril.com.br##.widget-abril-assinatura-full
 punchsubs.net###link-doacao
 punchsubs.net##.topoPublicidadeBox
 fileproject.zlx.com.br##.centro
-! Portal Terra
 ###nb-partners-container
 ||s1.trrsf.com/navbar/superslim/index.html$subdocument
+dc.clicrbs.com.br##.section-advertising-middle-1.section-advertising-middle
