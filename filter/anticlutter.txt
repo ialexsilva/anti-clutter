@@ -56,6 +56,7 @@ jota.info##.jota-paywall
 @@||streamango.com/googlead.js$badfilter
 @@||streamango.com/assets/js/license.adbl.js$badfilter
 @@||ads.servebom.com/tmnhead.js$badfilter
+||screechingfurniture.com$script
 
 
 
@@ -65,3 +66,9 @@ jota.info##.jota-paywall
 
 abril.com.br##.text-center.assine-abril
 abril.com.br##.widget-abril-assinatura-full
+punchsubs.net###link-doacao
+punchsubs.net##.topoPublicidadeBox
+fileproject.zlx.com.br##.centro
+! Portal Terra
+###nb-partners-container
+||s1.trrsf.com/navbar/superslim/index.html$subdocument
