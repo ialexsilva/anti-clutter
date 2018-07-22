@@ -67,6 +67,7 @@ mod_atblockdetector$script
 noadblock.js
 adblock$important,script
 adblocker$script
+mod_atblockdetector$script
 
 
 
@@ -116,6 +117,8 @@ facebook.com/*/logging^$important
 syndication.twitter.com
 ads.twitter.com^$important
 pubmedia.js
+facebook.com##._50z3._9bp._1ltv
+facebook.com##._55ob._4kqp
 facebook.com/ajax/typeahead/record_basic_metrics.php
 ||facebook.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.fbcdn.net
 pornhub.com##+js(abort-on-property-read.js, userABMessage)
@@ -123,4 +126,6 @@ ads$script,domain=~imdb.com
 mega.nz##.ads-left-block
 mega.nz##.ads-right-block
 mega.nz##.active.top-login-warning
+mega.nz##.checkbox-bl.download
 /ads/beacon^
+pastebin.com##.promo-bar
