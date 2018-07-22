@@ -1,15 +1,14 @@
 ! Title: Anti-Clutter by Alex Silva
-! Expires: 3 days
+! Expires: 2 days
 ! Description: Lista de filtros contra anti-adblock, paywall e outros anúncios de sites de nacionais e internacionais.
 ! Homepage: https://github.com/ialexsilva/anti-clutter
 ! Licence: https://github.com/ialexsilva/anti-clutter/blob/master/LICENSE
-! Credit: https://ialexsilva.com
+! Author: Alex Silva - https://ialexsilva.com
 
 
 !------------------------------------------------------------------!
 !-------------------------- Anti-Paywall --------------------------!
 !------------------------------------------------------------------!
-
 
 ! O Globo - oglobo.globo.com
 ||static.infoglobo.com.br/paywall/*
@@ -59,6 +58,15 @@ nytimes.com##.e1i2wxpm0.css-mlcs8h.shown
 @@||streamango.com/assets/js/license.adbl.js$badfilter
 @@||ads.servebom.com/tmnhead.js$badfilter
 ||screechingfurniture.com$script
+blockadblock.com,onhax.me##+js(bab-defuser.js)
+abtesting$important
+wp-adblock-dedect$important
+fuckadblock.js
+adblock-detector$script,important
+mod_atblockdetector$script
+noadblock.js
+adblock$important,script
+adblocker$script
 
 
 
@@ -74,3 +82,45 @@ fileproject.zlx.com.br##.centro
 ###nb-partners-container
 ||s1.trrsf.com/navbar/superslim/index.html$subdocument
 dc.clicrbs.com.br##.section-advertising-middle-1.section-advertising-middle
+pornhub.com###welcome
+*/advertisement.js$script,important,redirect=noopjs
+*/advertisement.js$xmlhttprequest,redirect=nooptext,important
+@@/advert.js$script,badfilter
+openload.co/reward$xmlhttprequest,important
+openload.co##+js(eclick.js, #videooverlay)
+addthis.com^$important
+adflow.js
+snowstorm$script
+snow$script
+myanimelist.net##.btn-mal-service
+myanimelist.net##.anime-detail-header-affiliate
+*/ads.js$script,important,redirect=noopjs
+*/*.ads.js$script,important,redirect=noopjs
+||rapidvideo.com^$script,badfilter
+@@||ghacks.net^$elemhide
+@@/wp-content/plugins/detect-adblock/js/ads.js$script,first-party,badfilter
+/^((?!(^https?):\/\/(vidfile\.net|(www\.)?youtube\.com|openload\.co|docs\.google\.com|video\.sibnet\.ru|oload\.stream|streamango\.com|vidlox\.tv|(www\.)?rapidvideo\.com|tune\.pk|(www\.)?dailymotion\.com|estream\.to|ebd\.cda\.pl|gamedor\.usermd\.net)\/).)*$/$subdocument,domain=a-o.ninja|centrum-dramy.pl|love-drama.pl|vidfile.net,badfilter
+/^((?!(^https?):\/\/(ajax\.googleapis\.com|cdnjs\.cloudflare\.com|vk\.com)\/).)*$/$script,third-party,domain=kinokrad.co,badfilter
+facebook.com/ads^
+*/log$xmlhttprequest,domain=~facebook.com
+reddit.com/*/log^
+ghacks.net##.cookie-notice-container
+player_ads.html^$important
+mellowads.com^$important
+animenewsnetwork.com##.aside.box.herald:has([href*="advert"])
+@@||animenewsnetwork.com^$elemhide
+ads.twitter.com^$important
+ad.foxnetworks.com^$important
+ghacks.net##.ghacks-ad
+facebook.com/*/logging^$important
+syndication.twitter.com
+ads.twitter.com^$important
+pubmedia.js
+facebook.com/ajax/typeahead/record_basic_metrics.php
+||facebook.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.fbcdn.net
+pornhub.com##+js(abort-on-property-read.js, userABMessage)
+ads$script,domain=~imdb.com
+mega.nz##.ads-left-block
+mega.nz##.ads-right-block
+mega.nz##.active.top-login-warning
+/ads/beacon^
