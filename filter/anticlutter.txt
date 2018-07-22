@@ -57,6 +57,7 @@ nytimes.com##.e1i2wxpm0.css-mlcs8h.shown
 @@||streamango.com/googlead.js$badfilter
 @@||streamango.com/assets/js/license.adbl.js$badfilter
 @@||ads.servebom.com/tmnhead.js$badfilter
+@@/wp-content/plugins/detect-adblock/js/ads.js$script,first-party,badfilter
 ||screechingfurniture.com$script
 blockadblock.com,onhax.me##+js(bab-defuser.js)
 abtesting$important
@@ -68,6 +69,8 @@ noadblock.js
 adblock$important,script
 adblocker$script
 mod_atblockdetector$script
+adbd^
+proxy_ab.js^$script
 
 
 
@@ -99,7 +102,6 @@ myanimelist.net##.anime-detail-header-affiliate
 */*.ads.js$script,important,redirect=noopjs
 ||rapidvideo.com^$script,badfilter
 @@||ghacks.net^$elemhide
-@@/wp-content/plugins/detect-adblock/js/ads.js$script,first-party,badfilter
 /^((?!(^https?):\/\/(vidfile\.net|(www\.)?youtube\.com|openload\.co|docs\.google\.com|video\.sibnet\.ru|oload\.stream|streamango\.com|vidlox\.tv|(www\.)?rapidvideo\.com|tune\.pk|(www\.)?dailymotion\.com|estream\.to|ebd\.cda\.pl|gamedor\.usermd\.net)\/).)*$/$subdocument,domain=a-o.ninja|centrum-dramy.pl|love-drama.pl|vidfile.net,badfilter
 /^((?!(^https?):\/\/(ajax\.googleapis\.com|cdnjs\.cloudflare\.com|vk\.com)\/).)*$/$script,third-party,domain=kinokrad.co,badfilter
 facebook.com/ads^
@@ -120,7 +122,7 @@ pubmedia.js
 facebook.com##._50z3._9bp._1ltv
 facebook.com##._55ob._4kqp
 facebook.com/ajax/typeahead/record_basic_metrics.php
-||facebook.com^$csp=script-src 'self' 'unsafe-inline' 'unsafe-eval' blob: data: *.fbcdn.net
+@@||facebook.com/ajax/typeahead/$domain=facebook.com,badfilter
 pornhub.com##+js(abort-on-property-read.js, userABMessage)
 ads$script,domain=~imdb.com
 mega.nz##.ads-left-block
@@ -129,3 +131,8 @@ mega.nz##.active.top-login-warning
 mega.nz##.checkbox-bl.download
 /ads/beacon^
 pastebin.com##.promo-bar
+betterpop$script,important
+adnetasia.com^$important
+bannertrack.net^$important
+quora.com##body > div > div > div > div > div > div > div > div > div > div:has([rel*="nofollow"])
+/http*.:\/\/.*[?|=|&|%|#|+].*/$popup,domain=0123movies.com|1337x.to|1movies.to|9anime.is|a-o.ninja|adsrt.com|ahlamtv.com|akvideo.stream|allmyvideos.netakvideo.stream|animeflv.net|animeid.io|asianvote.com|avgle.com|bittorrent.am|bmovies.to|clipconverter.cc|cloudtime.to|cruzing.xyz|dropapk.com|embed.nowvideo.sx|embed.videoweed.es|escdn.co|estream.to|extreme-board.com|eztv.ag|fastbay.net|fileone.tv|flash-x.tv|flashsx.tv|flashx.cc|flashx.me|flashx.run|flashx.sx|flashx.to|flashx.tv|flashx.ws|flashx1.tv|flashxx.tv|fmovies.is|fmovies.se|fmovies.to|fruithosted.net|fruitstreams.com|gogoanime.io|gorillavid.in|gowatchfreemovies.to|grammarist.com|ikwilthepiratebay.org|imagebam.com|imagefruit.com|imageporter.com|imagerar.com|img24.org|imgadult.com|imgbox.com|imgdrive.net|imgshots.com|imgsin.com|imgspice.com|imgtaxi.com|imgvip.net|imgwallet.com|indoxxi.tv|jkanime.net|katcr.host|katcr.party|kickass.cd|kickass.gg|kissasian.ch|kisscartoon.ac|lavamovies.se|m4ufree.com|m4ufree.tv|masterani.me|megaup.net|moecdn.io|monova.org|movie4k.is|mp3indirdur.mobi|myreadingmanga.info|mywebtv.info|newser.com|nosteam.ro|nowvideo.sx|oload.site|oload.stream|oload.xyz|oloadcdn.net|onhax.me|onlinevideoconverter.com|openload.co|openloadmovies.tv|opentpb.com|otakustream.tv|piratebayblocked.com|pirateproxy.sh|pirateproxy.website|playercdn.net|pornparadise.org|povwideo.net|powvideo.net|proxydl.cf|putlockertv.se|putlockertv.to|rapidvideo.com|rarbgproxy.org|readcomiconline.to|repelis.net|rule34hentai.net|seehd.pl|sendvid.com|sexuria.com|solarmoviesc.com|speedvid.net|sportp2p.com|stream.moe|stream2watch.org|streamango.com|streamcherry.com|streamplay.to|streamshunter.tv|suprafiles.org|telepisodes.co|thehiddenbay.fi|thehiddenbay.ws|thekat.nz|thepiratebay.red|thepiratebay.rocks|thepirateproxy.ws|theproxybay.me|thevideo.cc|thevideo.ch|thevideo.me|thevideo.website|torrentz.to|tpb.zone|tpbmirror.ga|tpbship.org|uktpbmirror.pw|unblocker.cc|unblocktpb.pro|userscloud.com|vidgg.to|vidlox.me|vidlox.tv|vidoza.net|vidto.me|vidtod.me|vidtudu.com|vidup.me|vidz7.com|vidzi.tv|vipleague.mobi|vodlock.co|watchcartoononline.com|watchonline.to|watchonlinemovies.com.pk|wholecloud.net|youwatch.org|yts.am|filmesonlinehd7.cc|mmfilmes.tv,badfilter
