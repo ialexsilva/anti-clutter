@@ -107,7 +107,6 @@ pornhub.com###welcome
 @@/advert.js$script,badfilter
 openload.co/reward$xmlhttprequest,important
 openload.co##+js(eclick.js, #videooverlay)
-addthis.com^$important
 adflow.js
 ad-view$script,important
 amazon-adsystem.com^$important
