@@ -137,7 +137,8 @@ mega.nz##.checkbox-bl.download
 pastebin.com##.promo-bar
 betterpop$script,important
 adnetasia.com^$important
+showads.js$important
 bannertrack.net^$important
 ||mackeeper.com^$empty
-quora.com##body > div > div > div > div > div > div > div > div > div > div:has([rel*="nofollow"])
+! Pop-ups
 *$popup,domain=filmesonlinehd7.cc|mmfilmes.tv|megafilmesahd.com|assistirfilmesonline.cc,third-party
