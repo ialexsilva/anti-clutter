@@ -61,6 +61,7 @@ nytimes.com##.e1i2wxpm0.css-mlcs8h.shown
 !------------------------------------------------------------------!
 
 ||screechingfurniture.com$script
+||maxflixhd.com/wp-content/uploads/*$script
 blockadblock.com,onhax.me##+js(bab-defuser.js)
 abtesting$important
 wp-adblock-dedect$important
@@ -141,5 +142,5 @@ showads.js$important
 bannertrack.net^$important
 ||mackeeper.com^$empty
 ! Pop-ups
-*$popup,domain=filmesonlinehd7.cc|mmfilmes.tv|megafilmesahd.com|assistirfilmesonline.cc|thenightfilmes.net|megacinefilmes.com,third-party
+*$popup,domain=filmesonlinehd7.cc|mmfilmes.tv|megafilmesahd.com|assistirfilmesonline.cc|thenightfilmes.net|thenightseries.net|fbseries.com|megacinefilmes.com,third-party
 magnific-popup.js
