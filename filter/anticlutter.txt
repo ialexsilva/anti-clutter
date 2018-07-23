@@ -94,6 +94,9 @@ openload.co/reward$xmlhttprequest,important
 openload.co##+js(eclick.js, #videooverlay)
 addthis.com^$important
 adflow.js
+ad-view$script,important
+amazon-adsystem.com^$important
+xvideos.com##+js(rdo.js, console, noopFunc)
 snowstorm$script
 snow$script
 myanimelist.net##.btn-mal-service
