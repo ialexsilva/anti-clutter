@@ -93,6 +93,10 @@ abril.com.br##.text-center.assine-abril
 abril.com.br##.widget-abril-assinatura-full
 punchsubs.net###link-doacao
 punchsubs.net##.topoPublicidadeBox
+animes.rocks###link-doacao
+animes.rocks###ad-topo
+animes.rocks###ad-download
+animes.rocks###ad-rodape
 fileproject.zlx.com.br##.centro
 ###nb-partners-container
 ||s1.trrsf.com/navbar/superslim/index.html$subdocument
