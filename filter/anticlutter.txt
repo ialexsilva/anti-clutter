@@ -101,7 +101,6 @@ fileproject.zlx.com.br##.centro
 ###nb-partners-container
 ||s1.trrsf.com/navbar/superslim/index.html$subdocument
 dc.clicrbs.com.br##.section-advertising-middle-1.section-advertising-middle
-pornhub.com###welcome
 */advertisement.js$script,important,redirect=noopjs
 */advertisement.js$xmlhttprequest,redirect=nooptext,important
 @@/advert.js$script,badfilter
@@ -134,7 +133,6 @@ ad.foxnetworks.com^$important
 ghacks.net##.ghacks-ad
 facebook.com/*/logging^$important
 syndication.twitter.com
-ads.twitter.com^$important
 pubmedia.js
 facebook.com##._50z3._9bp._1ltv
 facebook.com##._55ob._4kqp
