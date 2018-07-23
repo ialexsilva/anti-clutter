@@ -141,5 +141,5 @@ showads.js$important
 bannertrack.net^$important
 ||mackeeper.com^$empty
 ! Pop-ups
-*$popup,domain=filmesonlinehd7.cc|mmfilmes.tv|megafilmesahd.com|assistirfilmesonline.cc,third-party
+*$popup,domain=filmesonlinehd7.cc|mmfilmes.tv|megafilmesahd.com|assistirfilmesonline.cc|thenightfilmes.net|megacinefilmes.com,third-party
 magnific-popup.js
