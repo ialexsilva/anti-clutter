@@ -1,5 +1,5 @@
 ## Filtro Anti-Clutter
-Lista de filtros contra anti-adblock, paywall e outros anúncios de sites de nacionais e internacionais.
+Lista de filtros contra anti-adblock, paywall, pop-ups e outros anúncios de sites de nacionais e internacionais.
 
 ### Regras
 https://adblockplus.org/filter-cheatsheet

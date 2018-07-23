@@ -1,6 +1,6 @@
 ! Title: Anti-Clutter by Alex Silva
 ! Expires: 2 days
-! Description: Lista de filtros contra anti-adblock, paywall e outros anúncios de sites de nacionais e internacionais.
+! Description: Lista de filtros contra anti-adblock, paywall, pop-ups e outros anúncios de sites de nacionais e internacionais.
 ! Homepage: https://github.com/ialexsilva/anti-clutter
 ! Licence: https://github.com/ialexsilva/anti-clutter/blob/master/LICENSE
 ! Author: Alex Silva - https://ialexsilva.com
@@ -142,3 +142,4 @@ bannertrack.net^$important
 ||mackeeper.com^$empty
 ! Pop-ups
 *$popup,domain=filmesonlinehd7.cc|mmfilmes.tv|megafilmesahd.com|assistirfilmesonline.cc,third-party
+magnific-popup.js
