@@ -12,7 +12,7 @@
 
 ! O Globo - oglobo.globo.com
 ||static.infoglobo.com.br/paywall/*
-||ogjs.infoglobo.com.br/*/js/controla-acesso-aux.js
+||ogjs.infoglobo.com.br/*/js/controla-acesso-aux.js$script
 oglobo.globo.com##barreiraRegisterExclusiva
 
 ! Folha de S.Paulo - folha.uol.com.br
@@ -26,14 +26,14 @@ folha.uol.com.br##bt-read-more-content
 ||*.estadao.com.br/paywall/*
 
 ! Uol - uol.com.br
-||tm.jsuol.com.br/modules/content-gate.js
+||tm.jsuol.com.br/modules/content-gate.js$script
 
 ! JOTA - jota.info
-||*.jota.info/wp-content/themes/JOTA/assets/js/posts.js*
+||*.jota.info/wp-content/themes/JOTA/assets/js/posts.js*$script
 jota.info##.jota-paywall
 
 ! Correio Popular - correio.rac.com.br
-||correio.rac.com.br/includes/js/novo_cp/fivewall.js*
+||correio.rac.com.br/includes/js/novo_cp/fivewall.js*$script
 
 ! The New York Times - nytimes.com
 ||*.nytimes.com/js/mtr.js
@@ -45,7 +45,7 @@ nytimes.com##.e1i2wxpm0.css-mlcs8h.shown
 ||*.washingtonpost.com/wp-stat/pwapi/*
 
 ! Tynypass - tinypass.com
-||cdn.tinypass.com/api/tinypass.min.js
+||cdn.tinypass.com/api/tinypass.min.js$script
 ||api.tinypass.com/tpl/*
 ||dashboard.tinypass.com/xbuilder/experience/load*
 
@@ -62,20 +62,59 @@ nytimes.com##.e1i2wxpm0.css-mlcs8h.shown
 
 ||screechingfurniture.com$script
 ||maxflixhd.com/wp-content/uploads/*$script
-blockadblock.com,onhax.me##+js(bab-defuser.js)
 abtesting$important
 wp-adblock-dedect$important
-fuckadblock.js
+fuckadblock.js$script
 adblock-detector$script,important
 mod_atblockdetector$script
-noadblock.js
+noadblock.js$script
 adblock$important,script
 adblocker$script
 mod_atblockdetector$script
 adbd^
 proxy_ab.js^$script
 /wp-content/plugins/end-of-adblock-cycle/*
-
+/adblock-popup.
+/detectadblock.
+###adblockBanner
+###like-us-adblock-modal
+||stopadblock.org/adblocker-deaktivieren$subdocument
+/wp-content/plugins/ad-blocking-advisor/*$script,stylesheet
+/wp-content/plugins/ad-block-defender/*$script
+/wp-content/plugins/pause-adblocker/*$script
+/wp-content/plugins/sorry-adblocker/js/sab.js$script
+/wp-content/plugins/anti_ad_blocker/*
+##.deadblocker-header-bar
+/plugins/better-stop-adblock/*
+/adblock_detection/*
+/blockcake.js$script
+/anti-ad-buster.js$script
+/jquery.adblock-detector.js|$script
+/jquery.adblock.js|$script
+/jquery.antiadsblock.js|$script
+/js/an-detect.min.js$script
+/js/an-scripts.js$script
+/js/an-scripts.min.js$script
+/aadb/script.js|$script
+/AdblockDetector/handler.min.js$script
+/plugins/anti-block/*
+/anti-block-modal.js$script
+/blockBlock.jquery.js$script
+/plugins/ibd-block-adblocker/*$script,stylesheet
+/blockadblock.js$script
+/fuckadblock.min.js$script
+/blockadblock.min.js$script
+/adblockbait.js$script
+/adblockchecker.js$script
+/antipubblicita.js$script
+/kill-adblock/js/function.js$script
+/fuckadblock.js$script
+||punchsubs.net/chm.js*$script
+||adunblock.com/code/*.html
+/js/adbuddy.min.js$script
+||adblockconverter.com/js/aab.js$script,third-party
+webcheats.com.br##+js(abort-on-property-read.js, can_run_ads)
+webcheats.com.br###bg_trasp
 
 
 !------------------------------------------------------------------!
@@ -86,10 +125,12 @@ abril.com.br##.text-center.assine-abril
 abril.com.br##.widget-abril-assinatura-full
 punchsubs.net###link-doacao
 punchsubs.net##.topoPublicidadeBox
+||punchsubs.net^$csp=worker-src 'none'
 animes.rocks###link-doacao
 ###ad-topo
 ###ad-download
 ###ad-rodape
+*$script,third-party,domain=ouo.press|ouo.io
 fileproject.zlx.com.br##.centro
 ###nb-partners-container
 ||s1.trrsf.com/navbar/superslim/index.html$subdocument
@@ -98,7 +139,7 @@ dc.clicrbs.com.br##.section-advertising-middle-1.section-advertising-middle
 */advertisement.js$xmlhttprequest,redirect=nooptext,important
 openload.co/reward$xmlhttprequest,important
 openload.co##+js(eclick.js, #videooverlay)
-adflow.js
+adflow.js$script
 ad-view$script,important
 amazon-adsystem.com^$important
 xvideos.com##+js(rdo.js, console, noopFunc)
@@ -121,6 +162,7 @@ animenewsnetwork.com##.aside.box.herald:has([href*="advert"])
 ads.twitter.com^$important
 ad.foxnetworks.com^$important
 ghacks.net##.ghacks-ad
+megafilmeshd.net##[href^="http://click.afiliados.uol.com.br/Clique"]
 facebook.com/*/logging^$important
 syndication.twitter.com
 pubmedia.js
@@ -143,4 +185,4 @@ bannertrack.net^$important
 ||mackeeper.com^$empty
 ! Pop-ups
 *$popup,domain=filmesonlinehd7.cc|mmfilmes.tv|megafilmesahd.com|assistirfilmesonline.cc|thenightfilmes.net|thenightseries.net|fbseries.com|megacinefilmes.com,third-party
-magnific-popup.js
+magnific-popup.js$script
