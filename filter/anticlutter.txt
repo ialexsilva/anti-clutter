@@ -70,7 +70,6 @@ mod_atblockdetector$script
 noadblock.js$script
 adblock$important,script
 adblocker$script
-mod_atblockdetector$script
 adbd^
 proxy_ab.js^$script
 /wp-content/plugins/end-of-adblock-cycle/*
@@ -108,13 +107,9 @@ proxy_ab.js^$script
 /adblockchecker.js$script
 /antipubblicita.js$script
 /kill-adblock/js/function.js$script
-/fuckadblock.js$script
-||punchsubs.net/chm.js*$script
 ||adunblock.com/code/*.html
 /js/adbuddy.min.js$script
 ||adblockconverter.com/js/aab.js$script,third-party
-webcheats.com.br##+js(abort-on-property-read.js, can_run_ads)
-webcheats.com.br###bg_trasp
 
 
 !------------------------------------------------------------------!
@@ -125,11 +120,11 @@ abril.com.br##.text-center.assine-abril
 abril.com.br##.widget-abril-assinatura-full
 punchsubs.net###link-doacao
 punchsubs.net##.topoPublicidadeBox
+||punchsubs.net/chm.js*$script
 animes.rocks###link-doacao
 ###ad-topo
 ###ad-download
 ###ad-rodape
-*$script,third-party,domain=ouo.press|ouo.io
 fileproject.zlx.com.br##.centro
 ###nb-partners-container
 ||s1.trrsf.com/navbar/superslim/index.html$subdocument
@@ -146,6 +141,8 @@ snowstorm$script
 snow$script
 myanimelist.net##.btn-mal-service
 myanimelist.net##.anime-detail-header-affiliate
+webcheats.com.br##+js(abort-on-property-read.js, can_run_ads)
+webcheats.com.br###bg_trasp
 */ads.js$script,important,redirect=noopjs
 */*.ads.js$script,important,redirect=noopjs
 ||rapidvideo.com^$script,badfilter
