@@ -157,7 +157,6 @@ animenewsnetwork.com##.aside.box.herald:has([href*="advert"])
 @@||animenewsnetwork.com^$elemhide
 ads.twitter.com^$important
 ad.foxnetworks.com^$important
-ghacks.net##.ghacks-ad
 megafilmeshd.net##[href^="http://click.afiliados.uol.com.br/Clique"]
 facebook.com/*/logging^$important
 syndication.twitter.com
