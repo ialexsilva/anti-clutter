@@ -125,7 +125,6 @@ abril.com.br##.text-center.assine-abril
 abril.com.br##.widget-abril-assinatura-full
 punchsubs.net###link-doacao
 punchsubs.net##.topoPublicidadeBox
-||punchsubs.net^$csp=worker-src 'none'
 animes.rocks###link-doacao
 ###ad-topo
 ###ad-download
