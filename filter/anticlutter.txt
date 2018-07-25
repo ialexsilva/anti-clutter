@@ -130,6 +130,7 @@ proxy_ab.js^$script
 ||adunblock.com/code/*.html
 /js/adbuddy.min.js$script
 ||adblockconverter.com/js/aab.js$script,third-party
+@@||gamersclub.com.br/assets/js/shared/trackings/ads.js*$important,script
 
 
 !------------------------------------------------------------------!
@@ -163,8 +164,6 @@ myanimelist.net##.btn-mal-service
 myanimelist.net##.anime-detail-header-affiliate
 webcheats.com.br##+js(abort-on-property-read.js, can_run_ads)
 webcheats.com.br###bg_trasp
-*/ads.js$script,important,redirect=noopjs
-*/*.ads.js$script,important,redirect=noopjs
 ||rapidvideo.com^$script,badfilter
 @@||ghacks.net^$elemhide
 facebook.com/ads^
