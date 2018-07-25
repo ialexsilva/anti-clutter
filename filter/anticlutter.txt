@@ -26,7 +26,7 @@ folha.uol.com.br##bt-read-more-content
 ||*.estadao.com.br/paywall/*
 
 ! Uol - uol.com.br
-||tm.jsuol.com.br/modules/content-gate.js$script
+||tm.jsuol.com.br/modules/content-gate.js*$script
 
 ! JOTA - jota.info
 ||*.jota.info/wp-content/themes/JOTA/assets/js/posts.js*$script
@@ -34,6 +34,22 @@ jota.info##.jota-paywall
 
 ! Correio Popular - correio.rac.com.br
 ||correio.rac.com.br/includes/js/novo_cp/fivewall.js*$script
+
+! GaúchaZH - clicrbs.com.br
+||gauchazh.clicrbs.com.br/static/main*$script
+||rbsonline.com.br/cdn/scripts/special-paywall.min.js*$script
+||rbsonline.com.br/cdn/scripts/paywall.min.js*$script
+||rbsonline.com.br/cdn/scripts/SLoader.js*$script
+
+! Jornal Novo Hamburgo - jornalnh.com.br
+||*.jornalnh.com.br/includes/js/paywall.js*$script
+
+! Imirante - imirante.com
+||assets.imirante.com/2.0/oestadoma/js/jquery.login.min.js*$script
+
+! Gazeta do Povo - gazetadopovo.com.br
+||gazetadopovo.com.br/public/_css/paywall.css*$stylesheet
+www.gazetadopovo.com.br##.c-assine-container
 
 ! The New York Times - nytimes.com
 ||*.nytimes.com/js/mtr.js
@@ -45,15 +61,19 @@ nytimes.com##.e1i2wxpm0.css-mlcs8h.shown
 ||*.washingtonpost.com/wp-stat/pwapi/*
 
 ! Tynypass - tinypass.com
-||cdn.tinypass.com/api/tinypass.min.js$script
+||cdn.tinypass.com/api/tinypass.min.js*$script
 ||api.tinypass.com/tpl/*
 ||dashboard.tinypass.com/xbuilder/experience/load*
+tinypass.min.js*$script
 
 ! Neatdeal - netdeal.com.br
 ||netdeal.com.br/*
+netdeal.js*$script
 
 ! Fivewall - fivewall.com.br
 ||blockv2.fivewall.com.br
+||blockv*.fivewall.com.br
+fivewall.js*$script
 
 
 !------------------------------------------------------------------!
