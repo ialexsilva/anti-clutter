@@ -142,7 +142,7 @@ abril.com.br##.text-center.assine-abril
 abril.com.br##.widget-abril-assinatura-full
 punchsubs.net###link-doacao
 punchsubs.net##.topoPublicidadeBox
-||punchsubs.net/chm.js*$script
+||punchsub*.*/chm.js*$document
 animes.rocks###link-doacao
 ###ad-topo
 ###ad-download
