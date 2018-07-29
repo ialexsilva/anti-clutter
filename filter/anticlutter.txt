@@ -113,6 +113,7 @@ proxy_ab.js^$script
 /adblockbait.js$script
 /adblockchecker.js$script
 /antipubblicita.js$script
+/antipublicidade.js$script
 /kill-adblock/js/function.js$script
 ||adunblock.com/code/*.html
 /js/adbuddy.min.js$script
