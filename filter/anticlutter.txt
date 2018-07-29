@@ -79,8 +79,6 @@ fivewall.js*$script
 ||maxflixhd.com/wp-content/uploads/*$script
 abtesting$important
 wp-adblock-dedect$important
-fuckadblock.js$script
-adblock-detector$script,important
 mod_atblockdetector$script
 noadblock.js$script
 adblock$important,script
@@ -95,7 +93,6 @@ proxy_ab.js^$script
 /wp-content/plugins/ad-block-defender/*$script
 /wp-content/plugins/pause-adblocker/*$script
 /wp-content/plugins/sorry-adblocker/js/sab.js$script
-/wp-content/plugins/anti_ad_blocker/*
 /plugins/better-stop-adblock/*
 /adblock_detection/*
 /blockcake.js$script
@@ -137,32 +134,20 @@ proxy_ab.js^$script
 
 ||punchsub*.*/chm.js*$document
 ||s1.trrsf.com/navbar/superslim/index.html$subdocument
-*/advertisement.js$script,important,redirect=noopjs
-*/advertisement.js$xmlhttprequest,redirect=nooptext,important
-openload.co/reward$xmlhttprequest,important
-adflow.js$script
-ad-view$script,important
-amazon-adsystem.com^$important
 snowstorm$script
 snow$script
-||rapidvideo.com^$script,badfilter
 @@||ghacks.net^$elemhide
 facebook.com/ads^
 reddit.com/*/log^
-player_ads.html^$important
-mellowads.com^$important
 @@||animenewsnetwork.com^$elemhide
 ads.twitter.com^$important
-ad.foxnetworks.com^$important
 facebook.com/*/logging^$important
 syndication.twitter.com
 pubmedia.js*$script
 facebook.com/ajax/typeahead/record_basic_metrics.php
 @@||facebook.com/ajax/typeahead/$domain=facebook.com,badfilter
-/ads/beacon^
 betterpop$script,important
 adnetasia.com^$important
-showads.js$important
 bannertrack.net^$important
 ||mackeeper.com^$empty
 
