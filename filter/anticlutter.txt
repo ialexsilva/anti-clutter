@@ -180,3 +180,4 @@ pplware.sapo.pt###ws_widget__ad_codes-3
 pplware.sapo.pt###ws_widget__ad_codes-4
 pplware.sapo.pt###ws_widget__ad_codes-5
 ###r7-header
+www.ahnegao.com.br##.le-publicidade
