@@ -82,7 +82,6 @@ wp-adblock-dedect$important
 mod_atblockdetector$script
 noadblock.js$script
 adblock$important,script
-adblocker$script
 adbd^
 proxy_ab.js^$script
 /wp-content/plugins/end-of-adblock-cycle/*
