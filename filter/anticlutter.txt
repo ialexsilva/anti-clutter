@@ -203,3 +203,4 @@ abril.com.br##.text-center.assine-abril
 abril.com.br##.widget-abril-assinatura-full
 punchsubs.net###link-doacao
 punchsubs.net##.topoPublicidadeBox
+###r7-header
