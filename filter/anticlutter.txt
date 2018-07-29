@@ -174,4 +174,9 @@ abril.com.br##.text-center.assine-abril
 abril.com.br##.widget-abril-assinatura-full
 punchsubs.net###link-doacao
 punchsubs.net##.topoPublicidadeBox
+pplware.sapo.pt###ws_widget__ad_codes-1
+pplware.sapo.pt###ws_widget__ad_codes-2
+pplware.sapo.pt###ws_widget__ad_codes-3
+pplware.sapo.pt###ws_widget__ad_codes-4
+pplware.sapo.pt###ws_widget__ad_codes-5
 ###r7-header
