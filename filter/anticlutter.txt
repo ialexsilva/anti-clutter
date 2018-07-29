@@ -32,7 +32,6 @@ jota.info##.jota-paywall
 ||correio.rac.com.br/includes/js/novo_cp/fivewall.js*$script
 
 ! GaúchaZH - https://clicrbs.com.br
-||gauchazh.clicrbs.com.br/static/main*$script
 ||rbsonline.com.br/cdn/scripts/special-paywall.min.js*$script
 ||rbsonline.com.br/cdn/scripts/paywall.min.js*$script
 ||rbsonline.com.br/cdn/scripts/SLoader.js*$script
@@ -135,10 +134,8 @@ proxy_ab.js^$script
 ||s1.trrsf.com/navbar/superslim/index.html$subdocument
 snowstorm$script
 snow$script
-@@||ghacks.net^$elemhide
 facebook.com/ads^
 reddit.com/*/log^
-@@||animenewsnetwork.com^$elemhide
 ads.twitter.com^$important
 facebook.com/*/logging^$important
 syndication.twitter.com
@@ -161,8 +158,6 @@ mega.nz##.ads-left-block
 mega.nz##.ads-right-block
 mega.nz##.active.top-login-warning
 mega.nz##.checkbox-bl.download
-pastebin.com##.promo-bar
-pornhub.com##+js(abort-on-property-read.js, userABMessage)
 facebook.com##._50z3._9bp._1ltv
 facebook.com##._55ob._4kqp
 megafilmeshd.net##[href^="http://click.afiliados.uol.com.br/Clique"]
@@ -170,7 +165,6 @@ myanimelist.net##.btn-mal-service
 myanimelist.net##.anime-detail-header-affiliate
 webcheats.com.br##+js(abort-on-property-read.js, can_run_ads)
 webcheats.com.br###bg_trasp
-openload.co##+js(eclick.js, #videooverlay)
 dc.clicrbs.com.br##.section-advertising-middle-1.section-advertising-middle
 animes.rocks###link-doacao
 ###ad-topo
