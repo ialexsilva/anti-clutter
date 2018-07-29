@@ -168,7 +168,6 @@ webcheats.com.br###bg_trasp
 ||rapidvideo.com^$script,badfilter
 @@||ghacks.net^$elemhide
 facebook.com/ads^
-*/log$xmlhttprequest,domain=~facebook.com
 reddit.com/*/log^
 ghacks.net##.cookie-notice-container
 player_ads.html^$important
