@@ -16,17 +16,13 @@
 oglobo.globo.com##barreiraRegisterExclusiva
 
 ! Folha de S.Paulo - https://folha.uol.com.br
-||paywall.folha.uol.com.br/status.php
 ||paywall.folha.uol.com.br/*
-||static.folha.uol.com.br/paywall/
+||static.folha.uol.com.br/paywall/*
+@@||paywall.folha.uol.com.br/status.php^$document
 folha.uol.com.br##bt-read-more-content
 
 ! Estadão - https://estadao.com.br
-||*.estadao.com.br/paywall/pw.php
 ||*.estadao.com.br/paywall/*
-
-! Uol - https://uol.com.br
-||tm.jsuol.com.br/modules/content-gate.js*$script
 
 ! JOTA - https://jota.info
 ||*.jota.info/wp-content/themes/JOTA/assets/js/posts.js*$script
@@ -163,7 +159,6 @@ syndication.twitter.com
 pubmedia.js*$script
 facebook.com/ajax/typeahead/record_basic_metrics.php
 @@||facebook.com/ajax/typeahead/$domain=facebook.com,badfilter
-ads$script,domain=~imdb.com
 /ads/beacon^
 betterpop$script,important
 adnetasia.com^$important
