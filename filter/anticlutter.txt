@@ -103,7 +103,6 @@ proxy_ab.js^$script
 /js/an-scripts.min.js$script
 /aadb/script.js|$script
 /AdblockDetector/handler.min.js$script
-/plugins/anti-block/*
 /anti-block-modal.js$script
 /blockBlock.jquery.js$script
 /plugins/ibd-block-adblocker/*$script,stylesheet
