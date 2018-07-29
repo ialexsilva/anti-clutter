@@ -114,9 +114,7 @@ proxy_ab.js^$script
 /antipubblicita.js$script
 /antipublicidade.js$script
 /kill-adblock/js/function.js$script
-||adunblock.com/code/*.html
 /js/adbuddy.min.js$script
-||adblockconverter.com/js/aab.js$script,third-party
 @@||gamersclub.com.br/assets/js/shared/trackings/ads.js*$important,script
 @@||gamevicio.com/misc/js/advert.js*$script
 
