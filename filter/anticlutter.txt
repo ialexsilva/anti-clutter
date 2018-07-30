@@ -12,8 +12,10 @@
 
 ! O Globo - https://oglobo.globo.com
 ||static.infoglobo.com.br/paywall/*
-||ogjs.infoglobo.com.br/*/js/controla-acesso-aux.js$script
+||ogjs.infoglobo.com.br/*/js/contadorDeAcessos*$script
 oglobo.globo.com##barreiraRegisterExclusiva
+oglobo.globo.com##section.block--advertising.block
+oglobo.globo.com##section.four-subpanes-with-advertising.block
 
 ! Folha de S.Paulo - https://folha.uol.com.br
 ||paywall.folha.uol.com.br/*
