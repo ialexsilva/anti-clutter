@@ -118,7 +118,6 @@ proxy_ab.js^$script
 /kill-adblock/js/function.js$script
 /js/adbuddy.min.js$script
 @@||gamersclub.com.br/assets/js/shared/trackings/ads.js*$important,script
-@@||gamevicio.com/misc/js/advert.js*$script
 
 !-------------------------- Stylesheet --------------------------!
 
