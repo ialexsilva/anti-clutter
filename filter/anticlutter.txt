@@ -49,8 +49,7 @@ jota.info##.jota-paywall
 www.gazetadopovo.com.br##.c-assine-container
 
 ! The New York Times - https://nytimes.com
-||*.nytimes.com/js/mtr.js
-||*.nyt.com/js/mtr.js
+/mtr.js$script,domain=nyt.com|nytimes.com
 nytimes.com##.InlineMessage-inline--2ysnq
 nytimes.com##.e1i2wxpm0.css-mlcs8h.shown
 
