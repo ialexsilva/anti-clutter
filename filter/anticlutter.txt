@@ -117,7 +117,7 @@ proxy_ab.js^$script
 /antipublicidade.js$script
 /kill-adblock/js/function.js$script
 /js/adbuddy.min.js$script
-@@||gamersclub.com.br/assets/js/shared/trackings/ads.js*$important,script
+@@/ads.js$script,domain=gamersclub.com.br
 
 !-------------------------- Stylesheet --------------------------!
 
@@ -145,6 +145,8 @@ betterpop$script,important
 adnetasia.com^$important
 bannertrack.net^$important
 ||mackeeper.com^$empty
+modal-extensao.js$domain=canaltech.com.br
+modal-extensao.css$stylesheet,domain=canaltech.com.br
 
 !---------------------------- Pop-ups ---------------------------!
 
