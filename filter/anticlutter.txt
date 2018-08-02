@@ -137,7 +137,6 @@ facebook.com/ads^
 reddit.com/*/log^
 ads.twitter.com^$important
 facebook.com/*/logging^$important
-syndication.twitter.com
 pubmedia.js*$script
 facebook.com/ajax/typeahead/record_basic_metrics.php
 @@||facebook.com/ajax/typeahead/$domain=facebook.com,badfilter
