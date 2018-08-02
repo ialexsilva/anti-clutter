@@ -77,14 +77,12 @@ fivewall.js*$script
 !------------------------------------------------------------------!
 
 ||screechingfurniture.com$script
-||maxflixhd.com/wp-content/uploads/*$script
 abtesting$important
 wp-adblock-dedect$important
 mod_atblockdetector$script
 noadblock.js$script
 adblock$important,script
 adbd^
-proxy_ab.js^$script
 /wp-content/plugins/end-of-adblock-cycle/*
 /adblock-popup.
 /detectadblock.
@@ -118,6 +116,7 @@ proxy_ab.js^$script
 /kill-adblock/js/function.js$script
 /js/adbuddy.min.js$script
 @@/ads.js$script,domain=gamersclub.com.br
+||maxflixhd.com/wp-content/uploads/*$script
 
 !-------------------------- Stylesheet --------------------------!
 
