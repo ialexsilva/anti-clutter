@@ -30,9 +30,6 @@ folha.uol.com.br##bt-read-more-content
 ||*.jota.info/wp-content/themes/JOTA/assets/js/posts.js*$script
 jota.info##.jota-paywall
 
-! Correio Popular - http://correio.rac.com.br
-||correio.rac.com.br/includes/js/novo_cp/fivewall.js*$script
-
 ! GaúchaZH - https://clicrbs.com.br
 ||rbsonline.com.br/cdn/scripts/special-paywall.min.js*$script
 ||rbsonline.com.br/cdn/scripts/paywall.min.js*$script
@@ -67,7 +64,6 @@ tinypass.min.js*$script
 netdeal.js*$script
 
 ! Fivewall - https://fivewall.com.br
-||blockv2.fivewall.com.br
 ||blockv*.fivewall.com.br
 fivewall.js*$script
 
