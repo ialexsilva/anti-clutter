@@ -128,9 +128,7 @@ adbd^
 ||s1.trrsf.com/navbar/superslim/index.html$subdocument
 snowstorm$script
 snow$script
-facebook.com/ads^
 reddit.com/*/log^
-ads.twitter.com^$important
 facebook.com/*/logging^$important
 pubmedia.js*$script
 facebook.com/ajax/typeahead/record_basic_metrics.php
@@ -139,8 +137,9 @@ betterpop$script,important
 adnetasia.com^$important
 bannertrack.net^$important
 ||mackeeper.com^$empty
-modal-extensao.js$domain=canaltech.com.br
-modal-extensao.css$stylesheet,domain=canaltech.com.br
+modal-extensao.*$domain=canaltech.com.br
+! Não mostra que a mensagem foi visualizada no Facebook para os outros
+!/ajax/mercury/change_read_status.php$xmlhttprequest,domain=facebook.com|messenger.com
 
 !---------------------------- Pop-ups ---------------------------!
 
