@@ -25,6 +25,9 @@ folha.uol.com.br##bt-read-more-content
 
 ! Estadão - https://estadao.com.br
 ||*.estadao.com.br/paywall/*
+||estadao.com.br/estadao/js/modules/navegg*$script
+@@/s2016/portal/js/advertisement.js$script,domain=estadao.com.br,important
+www.estadao.com.br##.assine-bar
 
 ! JOTA - https://jota.info
 ||*.jota.info/wp-content/themes/JOTA/assets/js/posts.js*$script
