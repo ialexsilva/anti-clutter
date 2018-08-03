@@ -111,6 +111,7 @@ adbd^
 /kill-adblock/js/function.js$script
 /js/adbuddy.min.js$script
 @@/ads.js$script,domain=gamersclub.com.br
+@@/jannah/*js/advertisement.js|$~third-party
 ||maxflixhd.com/wp-content/uploads/*$script
 
 !-------------------------- Stylesheet --------------------------!
