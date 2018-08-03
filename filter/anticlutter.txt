@@ -37,6 +37,7 @@ jota.info##.jota-paywall
 ||rbsonline.com.br/cdn/scripts/special-paywall.min.js*$script
 ||rbsonline.com.br/cdn/scripts/paywall.min.js*$script
 ||rbsonline.com.br/cdn/scripts/SLoader.js*$script
+dc.clicrbs.com.br##.section-advertising-middle-1.section-advertising-middle
 
 ! Jornal Novo Hamburgo - https://jornalnh.com.br
 ||*.jornalnh.com.br/includes/js/paywall.js*$script
@@ -162,7 +163,6 @@ myanimelist.net##.btn-mal-service
 myanimelist.net##.anime-detail-header-affiliate
 webcheats.com.br##+js(abort-on-property-read.js, can_run_ads)
 webcheats.com.br###bg_trasp
-dc.clicrbs.com.br##.section-advertising-middle-1.section-advertising-middle
 animes.rocks###link-doacao
 ###ad-topo
 ###ad-download
