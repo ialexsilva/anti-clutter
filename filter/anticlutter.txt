@@ -78,7 +78,7 @@ fivewall.js*$script
 ||screechingfurniture.com$script
 abtesting$important
 wp-adblock-dedect$important
-mod_atblockdetector$script
+ab_appeal$script,first-party
 noadblock.js$script
 adblock$important,script
 adbd^
@@ -129,10 +129,12 @@ adbd^
 !------------------------------------------------------------------!
 
 ||punchsub*.*/chm.js*$document
+lib/*.wasm^$important
 ||s1.trrsf.com/navbar/superslim/index.html$subdocument
 snowstorm$script
 snow$script
 reddit.com/*/log^
+/logpopup
 facebook.com/*/logging^$important
 pubmedia.js*$script
 facebook.com/ajax/typeahead/record_basic_metrics.php
