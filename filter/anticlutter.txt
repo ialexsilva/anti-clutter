@@ -159,8 +159,8 @@ mega.nz##.ads-left-block
 mega.nz##.ads-right-block
 mega.nz##.active.top-login-warning
 mega.nz##.checkbox-bl.download
-facebook.com##._50z3._9bp._1ltv
-facebook.com##._55ob._4kqp
+www.facebook.com##.clearfix.fbChatOrderedList > div > div:nth-of-type(2)
+www.facebook.com###pagelet_gaming_destination_rhc
 megafilmeshd.net##[href^="http://click.afiliados.uol.com.br/Clique"]
 myanimelist.net##.btn-mal-service
 myanimelist.net##.anime-detail-header-affiliate
