@@ -90,6 +90,7 @@ adbd^
 /wp-content/plugins/ad-block-defender/*$script
 /wp-content/plugins/pause-adblocker/*$script
 /wp-content/plugins/sorry-adblocker/js/sab.js$script
+@@/wp-content/themes/Sophia/js/advertisement.js$script
 /plugins/better-stop-adblock/*
 /adblock_detection/*
 /blockcake.js$script
