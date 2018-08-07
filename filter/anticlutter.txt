@@ -147,6 +147,7 @@ adnetasia.com^$important
 bannertrack.net^$important
 ||mackeeper.com^$empty
 modal-extensao.*$domain=canaltech.com.br
+||pushnews.eu^$script
 ! Não mostra que a mensagem foi visualizada no Facebook para os outros
 !/ajax/mercury/change_read_status.php$xmlhttprequest,domain=facebook.com|messenger.com
 
