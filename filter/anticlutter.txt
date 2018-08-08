@@ -116,7 +116,7 @@ adbd^
 /kill-adblock/js/function.js$script
 /js/adbuddy.min.js$script
 @@/ads.js$script,domain=gamersclub.com.br
-@@||visioncloud.*/assets/js/advertisements.js*$important
+@@/advertising.js*$script,domain=visioncloud.rocks|visioncloud.info,important
 @@/jannah/*js/advertisement.js|$~third-party
 ||maxflixhd.com/wp-content/uploads/*$script
 @@||akamaihd.net^*/ad*.js$script,badfilter
