@@ -108,7 +108,7 @@ adbd^
 /plugins/ibd-block-adblocker/*$script,stylesheet
 /blockadblock.js$script
 /fuckadblock.min.js$script
-/blockadblock.min.js$script
+/blockadblock.min.js$Pscript
 /adblockbait.js$script
 /adblockchecker.js$script
 /antipubblicita.js$script
@@ -134,6 +134,7 @@ adbd^
 !------------------------------------------------------------------!
 
 ||punchsub*.*/chm.js*$document
+assets.json$document,domain=punchsub.com|punchsubs.net|punchsub.net|punchsub.zlx.com.br
 lib/*.wasm^$important
 ||s1.trrsf.com/navbar/superslim/index.html$subdocument
 snowstorm$script
