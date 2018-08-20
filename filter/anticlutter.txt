@@ -168,6 +168,7 @@ mega.nz##.checkbox-bl.download
 www.facebook.com##.clearfix.fbChatOrderedList > div > div:nth-of-type(2)
 www.facebook.com###pagelet_gaming_destination_rhc
 megafilmeshd.net##[href^="http://click.afiliados.uol.com.br/Clique"]
+rutracker.org##[href^="https://partneradnet.com/"]
 myanimelist.net##.btn-mal-service
 myanimelist.net##.anime-detail-header-affiliate
 webcheats.com.br##+js(abort-on-property-read.js, can_run_ads)
