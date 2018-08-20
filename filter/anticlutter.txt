@@ -187,5 +187,7 @@ pplware.sapo.pt###ws_widget__ad_codes-2
 pplware.sapo.pt###ws_widget__ad_codes-3
 pplware.sapo.pt###ws_widget__ad_codes-4
 pplware.sapo.pt###ws_widget__ad_codes-5
+www.omelete.com.br##.banner--small.banner
+www.omelete.com.br##.banner__wrapper
 ###r7-header
 www.ahnegao.com.br##.le-publicidade
