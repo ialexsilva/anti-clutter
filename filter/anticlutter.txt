@@ -189,5 +189,7 @@ pplware.sapo.pt###ws_widget__ad_codes-4
 pplware.sapo.pt###ws_widget__ad_codes-5
 www.omelete.com.br##.banner--small.banner
 www.omelete.com.br##.banner__wrapper
+www.twitch.tv##.tw-z-above.tw-relative.tw-full-width.tw-c-text.blue-bar
 ###r7-header
 www.ahnegao.com.br##.le-publicidade
+www.twitch.tv##.tw-z-above.tw-relative.tw-full-width.tw-c-text.blue-bar
