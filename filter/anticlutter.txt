@@ -167,6 +167,7 @@ mega.nz##.active.top-login-warning
 mega.nz##.checkbox-bl.download
 www.facebook.com##.clearfix.fbChatOrderedList > div > div:nth-of-type(3)
 www.facebook.com###pagelet_gaming_destination_rhc
+www.facebook.com###pagelet_ego_pane
 megafilmeshd.net##[href^="http://click.afiliados.uol.com.br/Clique"]
 rutracker.org##[href^="https://partneradnet.com/"]
 myanimelist.net##.btn-mal-service
