@@ -16,6 +16,9 @@
 oglobo.globo.com##barreiraRegisterExclusiva
 oglobo.globo.com##section.block--advertising.block
 oglobo.globo.com##section.four-subpanes-with-advertising.block
+blogs.oglobo.globo.com###pub-fullbanner-1
+blogs.oglobo.globo.com###pub-box-materia
+oglobo.globo.com##.block__subpane--advertising.block__subpane
 
 ! Folha de S.Paulo - https://folha.uol.com.br
 ||paywall.folha.uol.com.br/*
