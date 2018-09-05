@@ -192,3 +192,4 @@ www.twitch.tv##.tw-z-above.tw-relative.tw-full-width.tw-c-text.blue-bar
 www.ahnegao.com.br##.le-publicidade
 www.artstation.com##support-artstation-block
 pastebin.com###abrpm
+www.infojobs.com.br##.premiumLimited.js_detailGrid.js_VacancyLimited.unstyled.element-vaga
