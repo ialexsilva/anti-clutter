@@ -139,10 +139,8 @@ adbd^
 ||punchsub*.*/chm.js*$document
 assets.json$document,domain=punchsub.com|punchsubs.net|punchsub.net|punchsub.zlx.com.br
 lib/*.wasm^$important
-||s1.trrsf.com/navbar/superslim/index.html$subdocument
 snowstorm$script
 snow$script
-reddit.com/*/log^
 @@||gateway.reddit.com/desktopapi/v*/sidebar_ad$xmlhttprequest,badfilter
 /logpopup
 facebook.com/*/logging^$important
