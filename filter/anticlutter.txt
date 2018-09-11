@@ -195,3 +195,4 @@ pastebin.com###abrpm
 www.infojobs.com.br##.premiumLimited.js_detailGrid.js_VacancyLimited.unstyled.element-vaga
 www.infojobs.com.br###ctl00_publicityTop
 brainly.com.br##.brn-ab-detection-screening
+www.omelete.com.br##.banner--trailer-booster.banner
