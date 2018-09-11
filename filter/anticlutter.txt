@@ -141,6 +141,7 @@ assets.json$document,domain=punchsub.com|punchsubs.net|punchsub.net|punchsub.zlx
 lib/*.wasm^$important
 snowstorm$script
 snow$script
+reddit.com/*/log^
 @@||gateway.reddit.com/desktopapi/v*/sidebar_ad$xmlhttprequest,badfilter
 /logpopup
 facebook.com/*/logging^$important
