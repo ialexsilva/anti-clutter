@@ -198,4 +198,5 @@ pastebin.com###abrpm
 www.infojobs.com.br##.premiumLimited.js_detailGrid.js_VacancyLimited.unstyled.element-vaga
 www.infojobs.com.br###ctl00_publicityTop
 www.infojobs.com.br##.headerSEO
+###divPublicityBotton
 brainly.com.br##.brn-ab-detection-screeningr
