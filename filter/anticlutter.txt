@@ -45,9 +45,6 @@ dc.clicrbs.com.br##.section-advertising-middle-1.section-advertising-middle
 ! Jornal Novo Hamburgo - https://jornalnh.com.br
 ||*.jornalnh.com.br/includes/js/paywall.js*$script
 
-! Imirante - https://imirante.com
-||assets.imirante.com/2.0/oestadoma/js/jquery.login.min.js*$script
-
 ! Gazeta do Povo - https://gazetadopovo.com.br
 ||gazetadopovo.com.br/public/_css/paywall.css*$stylesheet
 www.gazetadopovo.com.br##.c-assine-container
