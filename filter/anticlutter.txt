@@ -136,8 +136,6 @@ adbd^
 ||punchsub*.*/chm.js*$document
 assets.json$document,domain=punchsub.com|punchsubs.net|punchsub.net|punchsub.zlx.com.br
 lib/*.wasm^$important
-snowstorm$script
-snow$script
 facebook.com/*/logging^$important
 pubmedia.js*$script
 facebook.com/ajax/typeahead/record_basic_metrics.php
