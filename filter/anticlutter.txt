@@ -138,8 +138,6 @@ assets.json$document,domain=punchsub.com|punchsubs.net|punchsub.net|punchsub.zlx
 lib/*.wasm^$important
 facebook.com/*/logging^$important
 pubmedia.js*$script
-facebook.com/ajax/typeahead/record_basic_metrics.php
-@@||facebook.com/ajax/typeahead/$domain=facebook.com,badfilter
 betterpop$script,important
 adnetasia.com^$important
 bannertrack.net^$important
@@ -158,6 +156,7 @@ magnific-popup.js$script
 
 !-------------------------- Stylesheet --------------------------!
 
+www.facebook.com###pagelet_games_rhc
 mega.nz##.ads-left-block
 mega.nz##.ads-right-block
 mega.nz##.active.top-login-warning
@@ -191,4 +190,3 @@ www.infojobs.com.br##.premiumLimited.js_detailGrid.js_VacancyLimited.unstyled.el
 www.infojobs.com.br###ctl00_publicityTop
 www.infojobs.com.br##.headerSEO
 ###divPublicityBotton
-brainly.com.br##.brn-ab-detection-screeningr
