@@ -120,10 +120,6 @@ magnific-popup.js$script
 !-------------------------- Stylesheet --------------------------!
 
 www.facebook.com###pagelet_games_rhc
-mega.nz##.ads-left-block
-mega.nz##.ads-right-block
-mega.nz##.active.top-login-warning
-mega.nz##.checkbox-bl.download
 rutracker.org##[href^="https://partneradnet.com/"]
 animes.rocks###link-doacao
 ###ad-topo
@@ -141,7 +137,6 @@ www.omelete.com.br##.banner--trailer-booster.banne
 ###r7-header
 www.ahnegao.com.br##.le-publicidade
 www.artstation.com##support-artstation-block
-pastebin.com###abrpm
 www.infojobs.com.br##.premiumLimited.js_detailGrid.js_VacancyLimited.unstyled.element-vaga
 www.infojobs.com.br###ctl00_publicityTop
 www.infojobs.com.br##.headerSEO
