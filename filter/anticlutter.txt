@@ -99,7 +99,6 @@ fivewall.js*$script
 ||punchsub*.*/chm.js*$document
 assets.json$document,domain=punchsub.com|punchsubs.net|punchsub.net|punchsub.zlx.com.br
 lib/*.wasm^$important
-facebook.com/*/logging^$important
 pubmedia.js*$script
 betterpop$script,important
 adnetasia.com^$important
