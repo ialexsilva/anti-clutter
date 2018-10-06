@@ -37,6 +37,9 @@ www.estadao.com.br##.assine-bar
 ||*.jota.info/wp-content/themes/JOTA/assets/js/posts.js*$script
 jota.info##.jota-paywall
 
+! NEXO - https://www.nexojornal.com.br/
+||api.nexojornal.com.br/$xmlhttprequest
+
 ! GaúchaZH - https://clicrbs.com.br
 ||rbsonline.com.br/cdn/scripts/special-paywall.min.js*$script
 ||rbsonline.com.br/cdn/scripts/paywall.min.js*$script
