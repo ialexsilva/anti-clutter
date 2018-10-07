@@ -132,11 +132,7 @@ fileproject.zlx.com.br##.centro
 ###nb-partners-container
 punchsubs.net###link-doacao
 punchsubs.net##.topoPublicidadeBox
-www.omelete.com.br##.banner--small.banner
-www.omelete.com.br##.banner__wrapper
-www.omelete.com.br##.banner--background.banner
-www.omelete.com.br##.banner--regressive.banner
-www.omelete.com.br##.banner--trailer-booster.banne
+www.omelete.com.br##.banner
 ###r7-header
 www.ahnegao.com.br##.le-publicidade
 www.artstation.com##support-artstation-block
