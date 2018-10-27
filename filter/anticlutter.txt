@@ -82,8 +82,8 @@ fivewall.js*$script
 ||screechingfurniture.com$script
 @@/wp-content/themes/Sophia/js/advertisement.js$script
 @@/ads.js$script,domain=gamersclub.com.br
-@@/advertising.js*$script,domain=visioncloud.rocks|visioncloud.info
-@@/advertisements.js*$script,domain=visioncloud.rocks|visioncloud.info
+@@/advertising.js*$script,domain=visioncloud.rocks|visioncloud.info|visioncloud.ga
+@@/advertisements.js*$script,domain=visioncloud.rocks|visioncloud.info|visioncloud.ga
 @@||visioncloud.*^$generichide
 @@/jannah/*js/advertisement.js|$~third-party
 ||maxflixhd.com/wp-content/uploads/*$script
