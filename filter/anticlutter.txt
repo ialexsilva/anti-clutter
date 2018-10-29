@@ -140,3 +140,4 @@ www.infojobs.com.br##.premiumLimited.js_detailGrid.js_VacancyLimited.unstyled.el
 www.infojobs.com.br###ctl00_publicityTop
 www.infojobs.com.br##.headerSEO
 ###divPublicityBotton
+coub.com##.active.timeline-banner.coub
