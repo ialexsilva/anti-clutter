@@ -131,15 +131,9 @@ pastebin.com###abrpm2
 ###ad-download
 ###ad-rodape
 fileproject.zlx.com.br##.centro
-###nb-partners-container
 punchsubs.net###link-doacao
 punchsubs.net##.topoPublicidadeBox
 www.omelete.com.br##.banner
-###r7-header
 www.ahnegao.com.br##.le-publicidade
 www.artstation.com##support-artstation-block
-www.infojobs.com.br##.premiumLimited.js_detailGrid.js_VacancyLimited.unstyled.element-vaga
-www.infojobs.com.br###ctl00_publicityTop
-www.infojobs.com.br##.headerSEO
-###divPublicityBotton
 coub.com##.active.timeline-banner.coub
