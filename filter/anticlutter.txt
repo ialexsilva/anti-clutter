@@ -117,7 +117,7 @@ modal-extensao.*$domain=canaltech.com.br
 
 !---------------------------- Pop-ups ---------------------------!
 
-*$popup,domain=filmesonlinehd7.cc|mmfilmes.tv|megafilmesahd.com|assistirfilmesonline.cc|thenightfilmes.net|thenightseries.net|fbseries.com|megacinefilmes.com|superflix.net|overflix.tv,third-party
+*$popup,domain=filmesonlinehd7.cc|mmfilmes.tv|megafilmesahd.com|assistirfilmesonline.cc|thenightfilmes.net|thenightseries.net|fbseries.com|megacinefilmes.com|superflix.net|overflix.tv|buffstreamz.com,third-party
 magnific-popup.js$script
 
 !-------------------------- Stylesheet --------------------------!
