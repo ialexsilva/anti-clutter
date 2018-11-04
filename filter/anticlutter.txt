@@ -124,7 +124,6 @@ magnific-popup.js$script
 www.facebook.com###pagelet_games_rhc
 www.facebook.com###pagelet_marketplace_new_user_top_picks_rhc
 www.facebook.com###pagelet_ego_pane
-rutracker.org##[href^="https://partneradnet.com/"]
 animes.rocks###link-doacao
 pastebin.com###abrpm2
 ###ad-topo
