@@ -122,9 +122,9 @@ magnific-popup.js$script
 
 !-------------------------- Stylesheet --------------------------!
 
-www.facebook.com###pagelet_games_rhc
 www.facebook.com###pagelet_marketplace_new_user_top_picks_rhc
 www.facebook.com###pagelet_ego_pane
+www.facebook.com###pagelet_canvas_nav_content
 animes.rocks###link-doacao
 pastebin.com###abrpm2
 ###ad-topo
