@@ -89,6 +89,7 @@ fivewall.js*$script
 ||maxflixhd.com/wp-content/uploads/*$script
 @@||akamaihd.net^*/ad*.js$script,badfilter
 @@||adflyk.com/js/ads.js$script
+@@||clk.sh/js/ads.js$script
 
 !-------------------------- Stylesheet --------------------------!
 
