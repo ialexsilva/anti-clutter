@@ -137,3 +137,4 @@ www.omelete.com.br##.banner
 www.ahnegao.com.br##.le-publicidade
 www.artstation.com##support-artstation-block
 coub.com##.active.timeline-banner.coub
+www.filmesonlinehd7.cc###siteAdPlayer
