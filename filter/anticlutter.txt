@@ -90,6 +90,7 @@ fivewall.js*$script
 @@||akamaihd.net^*/ad*.js$script,badfilter
 @@||adflyk.com/js/ads.js$script
 @@||clk.sh/js/ads.js$script
+@@/adsbygoogle.js$script,domain=www.pokyun.tv
 
 !-------------------------- Stylesheet --------------------------!
 
