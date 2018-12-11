@@ -91,6 +91,7 @@ fivewall.js*$script
 @@||adflyk.com/js/ads.js$script
 @@||clk.sh/js/ads.js$script
 @@/adsbygoogle.js$script,domain=www.pokyun.tv
+@@||2fly.me/js/ads.js$script
 
 !-------------------------- Stylesheet --------------------------!
 
