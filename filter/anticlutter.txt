@@ -131,9 +131,6 @@ www.facebook.com###pagelet_canvas_nav_content
 www.facebook.com###pagelet_marketplace_recently_viewed_rhc
 animes.rocks###link-doacao
 pastebin.com###abrpm2
-###ad-topo
-###ad-download
-###ad-rodape
 fileproject.zlx.com.br##.centro
 punchsubs.net###link-doacao
 punchsubs.net##.topoPublicidadeBox
