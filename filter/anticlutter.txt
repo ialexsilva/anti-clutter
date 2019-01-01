@@ -128,6 +128,7 @@ magnific-popup.js$script
 www.facebook.com###pagelet_marketplace_new_user_top_picks_rhc
 www.facebook.com###pagelet_ego_pane
 www.facebook.com###pagelet_canvas_nav_content
+www.facebook.com###pagelet_marketplace_recently_viewed_rhc
 animes.rocks###link-doacao
 pastebin.com###abrpm2
 ###ad-topo
