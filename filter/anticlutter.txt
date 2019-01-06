@@ -110,7 +110,7 @@ bannertrack.net^$important
 ||mackeeper.com^$empty
 modal-extensao.*$domain=canaltech.com.br
 ||pushnews.eu^$script
-@@||www.googletagmanager.com/gtag/js$script,domain=eletropaulo.com.br
+@@||www.googletagmanager.com/gtag/js$script,domain=eneldistribuicaosp.com.br
 @@||locator.shell.com/javascripts/$script,domain=locator.shell.com
 @@||ticket.com.br/souticket/assets/components/*$script,domain=ticket.com.br
 ! Não exibe que a mensagem foi visualizada no Facebook para outras pessoas
