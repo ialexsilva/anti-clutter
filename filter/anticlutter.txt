@@ -102,8 +102,6 @@ fivewall.js*$script
 !------------------------- Aborrecimentos -------------------------!
 !------------------------------------------------------------------!
 
-||punchsub*.*/chm.js*$document
-assets.json$document,domain=punchsub.com|punchsubs.net|punchsub.net|punchsub.zlx.com.br
 lib/*.wasm^$important
 pubmedia.js*$script
 betterpop$script,important
@@ -129,11 +127,7 @@ www.facebook.com###pagelet_marketplace_new_user_top_picks_rhc
 www.facebook.com###pagelet_ego_pane
 www.facebook.com###pagelet_canvas_nav_content
 www.facebook.com###pagelet_marketplace_recently_viewed_rhc
-animes.rocks###link-doacao
 pastebin.com###abrpm2
-fileproject.zlx.com.br##.centro
-punchsubs.net###link-doacao
-punchsubs.net##.topoPublicidadeBox
 www.omelete.com.br##.banner
 www.ahnegao.com.br##.le-publicidade
 www.artstation.com##support-artstation-block
