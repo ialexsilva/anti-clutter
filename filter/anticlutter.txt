@@ -88,9 +88,7 @@ fivewall.js*$script
 @@||visioncloud.*^$generichide
 @@/jannah/*js/advertisement.js|$~third-party
 @@||akamaihd.net^*/ad*.js$script,badfilter
-@@/adsbygoogle.js$script,domain=www.pokyun.tv
 @@/js/ads.js$script,domain=adflyk.com|clk.sh|2fly.me
-@@||video-advertisements-*.kyuubey.cf^$script,domain=pokyun.tv
 
 !-------------------------- Stylesheet --------------------------!
 
