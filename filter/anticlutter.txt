@@ -86,6 +86,7 @@ fivewall.js*$script
 @@/advertising.js*$script,domain=visioncloud.rocks|visioncloud.info|visioncloud.ga
 @@/advertisements.js*$script,domain=visioncloud.rocks|visioncloud.info|visioncloud.ga
 @@||visioncloud.*^$generichide
+@@||blurei.com$generichide
 @@/jannah/*js/advertisement.js|$~third-party
 @@||akamaihd.net^*/ad*.js$script,badfilter
 @@/js/ads.js$script,domain=adflyk.com|clk.sh|2fly.me
