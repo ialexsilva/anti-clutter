@@ -91,11 +91,12 @@ fivewall.js*$script
 !------------------------- Aborrecimentos -------------------------!
 !------------------------------------------------------------------!
 
-lib/*.wasm^$important
 pubmedia.js*$script
 betterpop$script,important
 adnetasia.com^$important
 bannertrack.net^$important
+||intelaxy.net^$important
+||v1.halls.ml^$important
 ||mackeeper.com^$empty
 modal-extensao.*$domain=canaltech.com.br
 ||pushnews.eu^$script
