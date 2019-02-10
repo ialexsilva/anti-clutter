@@ -91,6 +91,7 @@ fivewall.js*$script
 !------------------------- Aborrecimentos -------------------------!
 !------------------------------------------------------------------!
 
+facebook.com/video/*/upnext/$xmlhttprequest
 pubmedia.js*$script
 betterpop$script,important
 adnetasia.com^$important
@@ -104,8 +105,13 @@ modal-extensao.*$domain=canaltech.com.br
 ||xstronger.com/protectx/*
 @@||www.googletagmanager.com/gtag/js$script,domain=eneldistribuicaosp.com.br
 @@||ticket.com.br/souticket/assets/components/*$script,domain=ticket.com.br
+
+!-------------------------- Privacidade -------------------------!
+
 ! Não exibe que a mensagem foi visualizada no Facebook para outras pessoas
 !/ajax/mercury/change_read_status.php$xmlhttprequest,domain=facebook.com|messenger.com
+
+facebook.com/*/logging^$important
 
 !---------------------------- Pop-ups ---------------------------!
 
