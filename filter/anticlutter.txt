@@ -108,7 +108,7 @@ modal-extensao.*$domain=canaltech.com.br
 
 !---------------------------- Pop-ups ---------------------------!
 
-*$popup,domain=filmesonlinehd7.cc|mmfilmes.tv|megafilmesahd.com|assistirfilmesonline.cc|thenightfilmes.net|thenightseries.net|fbseries.com|megacinefilmes.com|superflix.net|overflix.net|buffstreamz.com|animescx.net,third-party
+*$popup,domain=filmesonlinehd7x.cc|mmfilmes.tv|megafilmesahd.com|assistirfilmesonline.cc|thenightfilmes.net|thenightseries.net|fbseries.com|megacinefilmes.com|superflix.net|overflix.net|buffstreamz.com|animescx.net,third-party
 magnific-popup.js$script
 
 !-------------------------- Stylesheet --------------------------!
@@ -124,4 +124,3 @@ www.omelete.com.br##.banner
 www.ahnegao.com.br##.le-publicidade
 www.artstation.com##support-artstation-block
 coub.com##.active.timeline-banner.coub
-www.filmesonlinehd7.cc###siteAdPlayer
