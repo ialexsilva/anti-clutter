@@ -97,7 +97,8 @@ adnetasia.com^$important
 bannertrack.net^$important
 ||intelaxy.net^$important
 ||halls.ml^$important
-||mackeeper.com^$empty
+||wedeegut.net^
+||mackeeper.com^$important
 modal-extensao.*$domain=canaltech.com.br
 ||pushnews.eu^$script
 ||xstronger.com/protectx/*
