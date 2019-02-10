@@ -91,7 +91,7 @@ fivewall.js*$script
 !------------------------- Aborrecimentos -------------------------!
 !------------------------------------------------------------------!
 
-!||facebook.com/video/*/upnext/$xmlhttprequest
+!||facebook.com/video/tahoe/upnext/$important
 ||facebook.com/video/autoplay$important
 pubmedia.js*$script
 betterpop$script,important
