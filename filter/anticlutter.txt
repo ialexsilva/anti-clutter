@@ -82,10 +82,9 @@ fivewall.js*$script
 
 ||screechingfurniture.com$script
 @@/wp-content/themes/Sophia/js/advertisement.js$script
-@@/ads.js$script,domain=gamersclub.com.br
 @@||blurei.com$generichide
 @@/jannah/*js/advertisement.js|$~third-party
-@@/js/ads.js$script,domain=adflyk.com|clk.sh|2fly.me
+@@/ads.js$script,domain=adflyk.com|clk.sh|2fly.me|gamersclub.com.br
 
 !------------------------------------------------------------------!
 !------------------------- Aborrecimentos -------------------------!
