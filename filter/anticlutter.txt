@@ -91,7 +91,8 @@ fivewall.js*$script
 !------------------------- Aborrecimentos -------------------------!
 !------------------------------------------------------------------!
 
-facebook.com/video/*/upnext/$xmlhttprequest
+!||facebook.com/video/*/upnext/$xmlhttprequest
+||facebook.com/video/autoplay$important
 pubmedia.js*$script
 betterpop$script,important
 adnetasia.com^$important
