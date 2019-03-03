@@ -96,9 +96,6 @@ pubmedia.js*$script
 betterpop$script,important
 adnetasia.com^$important
 bannertrack.net^$important
-||intelaxy.net^$important
-||halls.ml^$important
-||wedeegut.net^
 ||mackeeper.com^$important
 modal-extensao.*$domain=canaltech.com.br
 ||pushnews.eu^$script
