@@ -86,6 +86,7 @@ fivewall.js*$script
 @@||animesvision.com.br*$generichide
 @@/jannah/*js/advertisement.js|$~third-party
 @@/ads.js$script,domain=adflyk.com|clk.sh|2fly.me|gamersclub.com.br
+@@||gamersclub.com.br/assets/js/shared/trackings/adsbygoogle.js
 
 !------------------------------------------------------------------!
 !------------------------- Aborrecimentos -------------------------!
