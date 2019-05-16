@@ -117,6 +117,7 @@ magnific-popup.js$script
 !--------------------------- Stylesheet ---------------------------!
 !------------------------------------------------------------------!
 
+www.facebook.com###pagelet_ego_pane
 punchsubs.net###anunciosModal
 punchsubs.net##.show.fade.modal-backdrop
 www.omelete.com.br##.banner
