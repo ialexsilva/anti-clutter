@@ -76,6 +76,9 @@ netdeal.js*$script
 ||blockv*.fivewall.com.br
 fivewall.js*$script
 
+! NSC Total - https://nsctotal.com.br/
+||paywall.nsctotal.com.br/behaviors*
+
 !------------------------------------------------------------------!
 !-------------------------- Anti-Adblock --------------------------!
 !------------------------------------------------------------------!
