@@ -27,6 +27,7 @@ oglobo.globo.com##.block__subpane--advertising.block__subpane
 ||static.folha.uol.com.br/paywall/*
 @@||paywall.folha.uol.com.br/status.php^$document
 folha.uol.com.br##bt-read-more-content
+folha.uol.com.br##.c-push-notification
 
 ! Estadão - https://estadao.com.br
 ||*.estadao.com.br/paywall/*
