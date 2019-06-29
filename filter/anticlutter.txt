@@ -13,7 +13,7 @@
 ! O Globo - https://oglobo.globo.com
 ||static.infoglobo.com.br/paywall/*
 ||ogjs.infoglobo.com.br/*/js/contadorDeAcessos.js*$script
-||static.infoglobo.com.br/paywall/js/tiny.js*$script
+||ogjs.infoglobo.com.br/*/js/controla-acesso-aux.js*$script
 oglobo.globo.com##barreiraRegisterExclusiva
 oglobo.globo.com##section.block--advertising.block
 oglobo.globo.com##section.four-subpanes-with-advertising.block
