@@ -38,17 +38,11 @@ www.estadao.com.br##.assine-bar
 ||*.jota.info/wp-content/themes/JOTA/assets/js/posts.js*$script
 jota.info##.jota-paywall
 
-! NEXO - https://www.nexojornal.com.br/
-||api.nexojornal.com.br/$xmlhttprequest
-
 ! GaúchaZH - https://clicrbs.com.br
 ||rbsonline.com.br/cdn/scripts/special-paywall.min.js*$script
 ||rbsonline.com.br/cdn/scripts/paywall.min.js*$script
 ||rbsonline.com.br/cdn/scripts/SLoader.js*$script
 dc.clicrbs.com.br##.section-advertising-middle-1.section-advertising-middle
-
-! Jornal Novo Hamburgo - https://jornalnh.com.br
-||*.jornalnh.com.br/includes/js/paywall.js*$script
 
 ! Gazeta do Povo - https://gazetadopovo.com.br
 ||gazetadopovo.com.br/public/_css/paywall.css*$stylesheet
