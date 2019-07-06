@@ -122,3 +122,4 @@ www.omelete.com.br##.banner
 www.ahnegao.com.br##.le-publicidade
 www.artstation.com##support-artstation-block
 coub.com##.active.timeline-banner.coub
+uol.com.br##.bannersticky-base
