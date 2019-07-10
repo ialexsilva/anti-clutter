@@ -102,6 +102,7 @@ modal-extensao.*$domain=canaltech.com.br
 @@||www.googletagmanager.com/gtag/js$script,domain=eneldistribuicaosp.com.br
 @@||ticket.com.br/souticket/assets/components/*$script,domain=ticket.com.br
 @@||ipinfo.io^$xmlhttprequest,domain=brasilbandalarga.com.br
+
 ! Não exibe que a mensagem foi visualizada no Facebook para outras pessoas
 !/ajax/mercury/change_read_status.php$xmlhttprequest,domain=facebook.com|messenger.com
 
@@ -124,3 +125,4 @@ www.ahnegao.com.br##.le-publicidade
 www.artstation.com##support-artstation-block
 coub.com##.active.timeline-banner.coub
 uol.com.br##.bannersticky-base
+reddit.com##script:inject(addEventListener-defuser.js, mousemove)
