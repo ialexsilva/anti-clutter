@@ -56,6 +56,7 @@ nytimes.com##.e1i2wxpm0.css-mlcs8h.shown
 
 ! Washington Post - https://washingtonpost.com
 ||*.washingtonpost.com/wp-stat/pwapi/*
+||washingtonpost.com/pb/api/*/adblocker-feature$xmlhttprequest,~third-party
 
 ! Tynypass - https://tinypass.com
 ||cdn.tinypass.com/api/tinypass.min.js*$script
