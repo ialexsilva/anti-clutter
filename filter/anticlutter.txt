@@ -128,4 +128,3 @@ www.ahnegao.com.br##.le-publicidade
 www.artstation.com##support-artstation-block
 coub.com##.active.timeline-banner.coub
 uol.com.br##.bannersticky-base
-reddit.com##script:inject(addEventListener-defuser.js, mousemove)
