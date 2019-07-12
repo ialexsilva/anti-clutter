@@ -56,7 +56,6 @@ nytimes.com##.e1i2wxpm0.css-mlcs8h.shown
 
 ! Washington Post - https://washingtonpost.com
 ||*.washingtonpost.com/wp-stat/pwapi/*
-||washingtonpost.com/pb/api/*/adblocker-feature$xmlhttprequest,~third-party
 
 ! Tynypass - https://tinypass.com
 ||cdn.tinypass.com/api/tinypass.min.js*$script
@@ -80,12 +79,12 @@ fivewall.js*$script
 !------------------------------------------------------------------!
 
 !||screechingfurniture.com$script
-!@@/wp-content/themes/Sophia/js/advertisement.js$script
-!@@||blurei.com$generichide
-!@@||animesvision.com.br*$generichide
-!@@/jannah/*js/advertisement.js|$~third-party
-!@@/ads.js$script,domain=adflyk.com|clk.sh|2fly.me|gamersclub.com.br
-!@@||gamersclub.com.br/assets/js/shared/trackings/adsbygoogle.js
+@@/wp-content/themes/Sophia/js/advertisement.js$script
+@@||blurei.com$generichide
+@@||animesvision.com.br*$generichide
+@@/jannah/*js/advertisement.js|$~third-party
+@@/ads.js$script,domain=adflyk.com|clk.sh|2fly.me|gamersclub.com.br
+@@||gamersclub.com.br/assets/js/shared/trackings/adsbygoogle.js
 
 !------------------------------------------------------------------!
 !------------------------- Aborrecimentos -------------------------!
