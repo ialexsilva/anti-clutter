@@ -120,11 +120,11 @@ magnific-popup.js$script
 !--------------------------- Stylesheet ---------------------------!
 !------------------------------------------------------------------!
 
-www.facebook.com###pagelet_ego_pane
-punchsubs.net###anunciosModal
-punchsubs.net##.show.fade.modal-backdrop
-www.omelete.com.br##.banner
-www.ahnegao.com.br##.le-publicidade
-www.artstation.com##support-artstation-block
-coub.com##.active.timeline-banner.coub
+!www.facebook.com###pagelet_ego_pane
+!punchsubs.net###anunciosModal
+!punchsubs.net##.show.fade.modal-backdrop
+!www.omelete.com.br##.banner
+!www.ahnegao.com.br##.le-publicidade
+!www.artstation.com##support-artstation-block
+!coub.com##.active.timeline-banner.coub
 !uol.com.br##.bannersticky-base
