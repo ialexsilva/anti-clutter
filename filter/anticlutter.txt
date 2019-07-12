@@ -96,7 +96,6 @@ pubmedia.js*$script
 betterpop$script,important
 adnetasia.com^$important
 bannertrack.net^$important
-||sendpulse.com^$script
 ||mackeeper.com^$important
 modal-extensao.*$domain=canaltech.com.br
 ||pushnews.eu^$script
@@ -127,4 +126,4 @@ www.omelete.com.br##.banner
 www.ahnegao.com.br##.le-publicidade
 www.artstation.com##support-artstation-block
 coub.com##.active.timeline-banner.coub
-reddit.com##script:inject(addEventListener-defuser.js, mousemove)
+uol.com.br##.bannersticky-base
