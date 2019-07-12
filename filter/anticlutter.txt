@@ -79,13 +79,13 @@ fivewall.js*$script
 !-------------------------- Anti-Adblock --------------------------!
 !------------------------------------------------------------------!
 
-||screechingfurniture.com$script
-@@/wp-content/themes/Sophia/js/advertisement.js$script
-@@||blurei.com$generichide
-@@||animesvision.com.br*$generichide
-@@/jannah/*js/advertisement.js|$~third-party
-@@/ads.js$script,domain=adflyk.com|clk.sh|2fly.me|gamersclub.com.br
-@@||gamersclub.com.br/assets/js/shared/trackings/adsbygoogle.js
+!||screechingfurniture.com$script
+!@@/wp-content/themes/Sophia/js/advertisement.js$script
+!@@||blurei.com$generichide
+!@@||animesvision.com.br*$generichide
+!@@/jannah/*js/advertisement.js|$~third-party
+!@@/ads.js$script,domain=adflyk.com|clk.sh|2fly.me|gamersclub.com.br
+!@@||gamersclub.com.br/assets/js/shared/trackings/adsbygoogle.js
 
 !------------------------------------------------------------------!
 !------------------------- Aborrecimentos -------------------------!
@@ -120,11 +120,11 @@ magnific-popup.js$script
 !--------------------------- Stylesheet ---------------------------!
 !------------------------------------------------------------------!
 
-!www.facebook.com###pagelet_ego_pane
-!punchsubs.net###anunciosModal
-!punchsubs.net##.show.fade.modal-backdrop
-!www.omelete.com.br##.banner
-!www.ahnegao.com.br##.le-publicidade
-!www.artstation.com##support-artstation-block
-!coub.com##.active.timeline-banner.coub
-!uol.com.br##.bannersticky-base
+www.facebook.com###pagelet_ego_pane
+punchsubs.net###anunciosModal
+punchsubs.net##.show.fade.modal-backdrop
+www.omelete.com.br##.banner
+www.ahnegao.com.br##.le-publicidade
+www.artstation.com##support-artstation-block
+coub.com##.active.timeline-banner.coub
+uol.com.br##.bannersticky-base
