@@ -101,6 +101,7 @@ bannertrack.net^$important
 modal-extensao.*$domain=canaltech.com.br
 ||pushnews.eu^$script
 ||xstronger.com/protectx/*
+||redditstatic.com/desktop2x/PushNotifications*$script,domain=reddit.com
 @@||www.googletagmanager.com/gtag/js$script,domain=eneldistribuicaosp.com.br
 @@||ticket.com.br/souticket/assets/components/*$script,domain=ticket.com.br
 @@||ipinfo.io^$xmlhttprequest,domain=brasilbandalarga.com.br
