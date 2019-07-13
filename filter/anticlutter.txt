@@ -116,7 +116,8 @@ magnific-popup.js$script
 !------------------------------------------------------------------!
 
 www.facebook.com###pagelet_ego_pane
-punchsubs.net###anunciosModal, #.show.fade.modal-backdrop
+punchsubs.net###anunciosModal
+punchsubs.net##.show.fade.modal-backdrop
 www.omelete.com.br##.banner
 www.ahnegao.com.br##.le-publicidade
 www.artstation.com##support-artstation-block
