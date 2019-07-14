@@ -124,3 +124,4 @@ www.artstation.com##support-artstation-block
 coub.com##.active.timeline-banner.coub
 uol.com.br##.bannersticky-base
 outlook.live.com##div#app > div.ms-Fabric > div:last-child > div:first-child > div:first-child > div[data-min-width][data-max-width][style^="width:"]~div:last-child
+www.twitch.tv##.tw-z-above.tw-relative.tw-full-width.tw-c-text-base.blue-bar
