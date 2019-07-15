@@ -78,10 +78,11 @@ fivewall.js*$script
 !-------------------------- Anti-Adblock --------------------------!
 !------------------------------------------------------------------!
 
-!||screechingfurniture.com$script
+||screechingfurniture.com$script
 @@/wp-content/themes/Sophia/js/advertisement.js$script
 @@||blurei.com$generichide
 @@||animesvision.com.br*$generichide
+@@||uol.com.br*$generichide
 @@/jannah/*js/advertisement.js|$~third-party
 @@/ads.js$script,domain=adflyk.com|clk.sh|2fly.me|gamersclub.com.br
 @@||gamersclub.com.br/assets/js/shared/trackings/adsbygoogle.js
@@ -90,7 +91,6 @@ fivewall.js*$script
 !------------------------- Aborrecimentos -------------------------!
 !------------------------------------------------------------------!
 
-!||facebook.com/video/*/upnext^$xmlhttprequest
 *betterpop*$script,first-party
 ||sendpulse.com^$script
 ||mackeeper.com^$important
@@ -101,7 +101,14 @@ modal-extensao.*$domain=canaltech.com.br
 @@||ticket.com.br/souticket/assets/components/*$script,domain=ticket.com.br
 @@||ipinfo.io^$xmlhttprequest,domain=brasilbandalarga.com.br
 
-! Não exibe que a mensagem foi visualizada no Facebook para outras pessoas
+!------------------------------------------------------------------!
+!-------------------------- Experimental --------------------------!
+!------------------------------------------------------------------!
+
+! Bloqueia a exibição automática do próximo vídeo.
+!||facebook.com/video/*/upnext^$xmlhttprequest
+
+! Não exibe que a mensagem foi visualizada por você no Facebook
 !/ajax/mercury/change_read_status.php$xmlhttprequest,domain=facebook.com|messenger.com
 
 !------------------------------------------------------------------!
@@ -125,3 +132,10 @@ coub.com##.active.timeline-banner.coub
 uol.com.br##.bannersticky-base
 outlook.live.com##div#app > div.ms-Fabric > div:last-child > div:first-child > div:first-child > div[data-min-width][data-max-width][style^="width:"]~div:last-child
 www.twitch.tv##.tw-z-above.tw-relative.tw-full-width.tw-c-text-base.blue-bar
+gazetadopovo.com.br##+js(abort-on-property-write.js, copyRight)
+uol.com.br##+js(addEventListener-defuser.js, copy)
+infomoney.com.br##+js(abort-on-property-read.js, addLink)
+ig.com.br##+js(abort-on-property-write.js, addLink)
+theverge.com##+js(setTimeout-defuser.js, (), 1500)
+majorgeeks.com##+js(abort-on-property-read.js, googletag)
+majorgeeks.com##+js(abort-current-inline-script.js, document.getElementById, undefined)
