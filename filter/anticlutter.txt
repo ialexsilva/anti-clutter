@@ -92,8 +92,8 @@ fivewall.js*$script
 !------------------------------------------------------------------!
 
 *betterpop*$script,first-party
-!||sendpulse.com^$third-party
-!||spider.ad^$third-party
+||sendpulse.com^$third-party
+||spider.ad^$third-party
 ||mackeeper.com^$important
 modal-extensao.*$domain=canaltech.com.br
 !||pushanert.com^$third-party
