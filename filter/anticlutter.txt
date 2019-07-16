@@ -112,6 +112,9 @@ modal-extensao.*$domain=canaltech.com.br
 ! Não exibe que a mensagem foi visualizada por você no Facebook
 !/ajax/mercury/change_read_status.php$xmlhttprequest,domain=facebook.com|messenger.com
 
+! Bloqueia o stories na página inicial do Facebook
+!facebook.com###stories_pagelet_below_composer
+
 !------------------------------------------------------------------!
 !----------------------------- Pop-ups ----------------------------!
 !------------------------------------------------------------------!
