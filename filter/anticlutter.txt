@@ -122,16 +122,17 @@ magnific-popup.js$script
 !--------------------------- Stylesheet ---------------------------!
 !------------------------------------------------------------------!
 
-www.facebook.com###pagelet_ego_pane
+facebook.com###pagelet_ego_pane
+facebook.com###pagelet_games_rhc
 punchsubs.net###anunciosModal
 punchsubs.net##.show.fade.modal-backdrop
-www.omelete.com.br##.banner
-www.ahnegao.com.br##.le-publicidade
-www.artstation.com##support-artstation-block
+omelete.com.br##.banner
+ahnegao.com.br##.le-publicidade
+artstation.com##support-artstation-block
 coub.com##.active.timeline-banner.coub
 uol.com.br##.bannersticky-base
 outlook.live.com##div#app > div.ms-Fabric > div:last-child > div:first-child > div:first-child > div[data-min-width][data-max-width][style^="width:"]~div:last-child
-www.twitch.tv##.tw-z-above.tw-relative.tw-full-width.tw-c-text-base.blue-bar
+twitch.tv##.tw-z-above.tw-relative.tw-full-width.tw-c-text-base.blue-bar
 gazetadopovo.com.br##+js(abort-on-property-write.js, copyRight)
 uol.com.br##+js(addEventListener-defuser.js, copy)
 infomoney.com.br##+js(abort-on-property-read.js, addLink)
@@ -139,3 +140,4 @@ ig.com.br##+js(abort-on-property-write.js, addLink)
 theverge.com##+js(setTimeout-defuser.js, (), 1500)
 majorgeeks.com##+js(abort-on-property-read.js, googletag)
 majorgeeks.com##+js(abort-current-inline-script.js, document.getElementById, undefined)
+
