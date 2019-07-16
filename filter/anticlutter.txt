@@ -93,10 +93,10 @@ fivewall.js*$script
 
 *betterpop*$script,first-party
 ||sendpulse.com^$third-party
-!||spider.ad^$third-party
+||spider.ad^$third-party
 ||mackeeper.com^$important
 modal-extensao.*$domain=canaltech.com.br
-||pushanert.com^$third-party
+!||pushanert.com^$third-party
 ||pushnews.eu^$third-party
 ||redditstatic.com/desktop2x/PushNotifications*$script,domain=reddit.com
 @@||www.googletagmanager.com/gtag/js$script,domain=eneldistribuicaosp.com.br
