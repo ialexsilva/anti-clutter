@@ -92,10 +92,12 @@ fivewall.js*$script
 !------------------------------------------------------------------!
 
 *betterpop*$script,first-party
-||sendpulse.com^$script
+||sendpulse.com^$third-party
+||spider.ad^$third-party
 ||mackeeper.com^$important
 modal-extensao.*$domain=canaltech.com.br
-||pushnews.eu^$script
+||pushanert.com^$third-party
+||pushnews.eu^$third-party
 ||redditstatic.com/desktop2x/PushNotifications*$script,domain=reddit.com
 @@||www.googletagmanager.com/gtag/js$script,domain=eneldistribuicaosp.com.br
 @@||ticket.com.br/souticket/assets/components/*$script,domain=ticket.com.br
@@ -115,7 +117,7 @@ modal-extensao.*$domain=canaltech.com.br
 !----------------------------- Pop-ups ----------------------------!
 !------------------------------------------------------------------!
 
-*$popup,domain=filmesonlinehd1x.com|mmfilmes.tv|megafilmesahd.com|assistirfilmesonline.cc|thenightfilmes.net|thenightseries.net|fbseries.com|megacinefilmes.com|superflix.net|overflix.net|buffstreamz.com|animescx.net,third-party
+*$popup,domain=filmesonlinehd1x.com|mmfilmes.tv|megafilmesahd.com|assistirfilmesonline.cc|thenightfilmes.net|thenightseries.net|fbseries.com|megacinefilmes.com|superflix.net|overflix.net|animescx.net|topflix.tv,third-party
 magnific-popup.js$script
 
 !------------------------------------------------------------------!
