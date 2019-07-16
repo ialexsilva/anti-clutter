@@ -131,6 +131,7 @@ facebook.com###pagelet_games_rhc
 punchsubs.net###anunciosModal
 punchsubs.net##.show.fade.modal-backdrop
 omelete.com.br##.banner
+tecnoblog.net###fullbanner
 ahnegao.com.br##.le-publicidade
 artstation.com##support-artstation-block
 coub.com##.active.timeline-banner.coub
