@@ -47,7 +47,7 @@ dc.clicrbs.com.br##.section-advertising-middle-1.section-advertising-middle
 
 ! Gazeta do Povo - https://gazetadopovo.com.br
 ||gazetadopovo.com.br/public/_css/paywall.css*$stylesheet
-www.gazetadopovo.com.br##.c-assine-container
+gazetadopovo.com.br##.c-assine-container
 
 ! The New York Times - https://nytimes.com
 /mtr.js$script,domain=nyt.com|nytimes.com
