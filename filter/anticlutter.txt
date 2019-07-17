@@ -93,6 +93,8 @@ fivewall.js*$script
 
 *betterpop*$script,first-party
 ||sendpulse.com^$third-party
+||livejasmin.com^$document
+||bet365.com^$document
 ||mackeeper.com^$document
 modal-extensao.*$domain=canaltech.com.br
 ||pushanert.com^$third-party
