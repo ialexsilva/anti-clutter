@@ -135,6 +135,7 @@ punchsubs.net###anunciosModal
 punchsubs.net##.show.fade.modal-backdrop
 omelete.com.br##.banner
 tecnoblog.net###fullbanner
+r7.com###vertical-header-ads
 ahnegao.com.br##.le-publicidade
 artstation.com##support-artstation-block
 coub.com##.active.timeline-banner.coub
