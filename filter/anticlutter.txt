@@ -103,6 +103,7 @@ modal-extensao.*$domain=canaltech.com.br
 @@||www.googletagmanager.com/gtag/js$script,domain=eneldistribuicaosp.com.br
 @@||ticket.com.br/souticket/assets/components/*$script,domain=ticket.com.br
 @@||ipinfo.io^$xmlhttprequest,domain=brasilbandalarga.com.br
+@@||netflix.com^
 
 !------------------------------------------------------------------!
 !-------------------------- Experimental --------------------------!
