@@ -143,7 +143,6 @@ artstation.com##support-artstation-block
 coub.com##.active.timeline-banner.coub
 uol.com.br##.bannersticky-base
 uol.com.br##div.bg-banner.ads-wrapper
-outlook.live.com##div[aria-label="Navigation pane"][data-max-width] ~ div[class^="_3_"]:last-child
 twitch.tv##.tw-z-above.tw-relative.tw-full-width.tw-c-text-base.blue-bar
 gazetadopovo.com.br##+js(abort-on-property-write.js, copyRight)
 uol.com.br##+js(addEventListener-defuser.js, copy)
