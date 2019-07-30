@@ -100,6 +100,7 @@ fivewall.js*$script
 ||mackeeper.com^$document
 modal-extensao.*$domain=canaltech.com.br
 ||pushanert.com^$third-party
+||pushalert.co^$third-party
 ||pushnews.eu^$third-party
 ||cdn.pn.vg^$third-party
 ||redditstatic.com/desktop2x/PushNotifications*$script,domain=reddit.com
