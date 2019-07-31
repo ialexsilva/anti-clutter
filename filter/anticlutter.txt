@@ -58,17 +58,15 @@ nytimes.com##.e1i2wxpm0.css-mlcs8h.shown
 ||*.washingtonpost.com/wp-stat/pwapi/*
 
 ! Tynypass - https://tinypass.com
-||cdn.tinypass.com/api/tinypass.min.js*$script
-||api.tinypass.com/tpl/*
-||dashboard.tinypass.com/xbuilder/experience/load*
+||tinypass.com^$third-party
 tinypass.min.js*$script
 
 ! Neatdeal - https://netdeal.com.br
-||netdeal.com.br/*
+||netdeal.com.br^$third-party
 netdeal.js*$script
 
 ! Fivewall - https://fivewall.com.br
-||blockv*.fivewall.com.br
+||fivewall.com.br^$third-party
 fivewall.js*$script
 
 ! NSC Total - https://nsctotal.com.br/
