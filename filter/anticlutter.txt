@@ -107,7 +107,6 @@ modal-extensao.*$domain=canaltech.com.br
 @@||www.googletagmanager.com/gtag/js$script,domain=eneldistribuicaosp.com.br
 @@||ticket.com.br/souticket/assets/components/*$script,domain=ticket.com.br
 @@||ipinfo.io^$xmlhttprequest,domain=brasilbandalarga.com.br
-@@||netflix.com^
 
 !------------------------------------------------------------------!
 !-------------------------- Experimental --------------------------!
@@ -133,6 +132,7 @@ magnific-popup.js$script
 !--------------------------- Stylesheet ---------------------------!
 !------------------------------------------------------------------!
 
+facebook.com###pagelet_canvas_nav_content
 facebook.com###pagelet_ego_pane
 facebook.com###pagelet_games_rhc
 facebook.com###pagelet_marketplace_recently_viewed_rhc
