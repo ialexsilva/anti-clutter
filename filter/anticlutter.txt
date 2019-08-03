@@ -146,6 +146,7 @@ coub.com##.active.timeline-banner.coub
 uol.com.br##.bannersticky-base
 uol.com.br##div.bg-banner.ads-wrapper
 twitch.tv##.tw-z-above.tw-relative.tw-full-width.tw-c-text-base.blue-bar
+jsfiddle.net###keep-us-running
 gazetadopovo.com.br##+js(abort-on-property-write.js, copyRight)
 uol.com.br##+js(addEventListener-defuser.js, copy)
 infomoney.com.br##+js(abort-on-property-read.js, addLink)
