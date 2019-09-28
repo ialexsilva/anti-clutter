@@ -81,7 +81,6 @@ fivewall.js*$script
 @@/wp-content/themes/Sophia/js/advertisement.js$script
 @@||blurei.com$generichide
 @@||animesvision.com.br*$generichide
-@@||uol.com.br*$generichide
 @@/jannah/*js/advertisement.js|$~third-party
 @@/ads.js$script,domain=adflyk.com|clk.sh|2fly.me|gamersclub.com.br
 @@||gamersclub.com.br/assets/js/shared/trackings/adsbygoogle.js
