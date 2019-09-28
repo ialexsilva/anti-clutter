@@ -131,8 +131,6 @@ magnific-popup.js$script
 !--------------------------- Stylesheet ---------------------------!
 !------------------------------------------------------------------!
 
-!facebook.com###pagelet_canvas_nav_content
-!facebook.com###pagelet_ego_pane
 facebook.com###pagelet_games_rhc
 facebook.com###pagelet_marketplace_recently_viewed_rhc
 punchsubs.net###anunciosModal
@@ -150,7 +148,6 @@ jsfiddle.net###keep-us-running
 gazetadopovo.com.br##+js(abort-on-property-write.js, copyRight)
 uol.com.br##+js(addEventListener-defuser.js, copy)
 infomoney.com.br##+js(abort-on-property-read.js, addLink)
-ig.com.br##+js(abort-on-property-write.js, addLink)
 theverge.com##+js(setTimeout-defuser.js, (), 1500)
 majorgeeks.com##+js(abort-on-property-read.js, googletag)
 majorgeeks.com##+js(abort-current-inline-script.js, document.getElementById, undefined)
