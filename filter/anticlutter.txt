@@ -130,7 +130,7 @@ magnific-popup.js$script
 !--------------------------- Stylesheet ---------------------------!
 !------------------------------------------------------------------!
 
-www.facebook.com###pagelet_ego_pane
+facebook.com###pagelet_ego_pane
 facebook.com###pagelet_games_rhc
 facebook.com###pagelet_marketplace_recently_viewed_rhc
 punchsubs.net###anunciosModal
