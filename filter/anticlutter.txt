@@ -123,7 +123,7 @@ modal-extensao.*$domain=canaltech.com.br
 !----------------------------- Pop-ups ----------------------------!
 !------------------------------------------------------------------!
 
-*$popup,domain=filmesonlinehd1x.com|mmfilmes.tv|megafilmesahd.com|assistirfilmesonline.cc|thenightfilmes.net|thenightseries.net|fbseries.com|megacinefilmes.com|superflix.net|overflix.net|animescx.net|topflix.tv,third-party
+*$popup,domain=filmesonlinehd1x.com|mmfilmes.tv|megafilmesahd.com|assistirfilmesonline.cc|thenightfilmes.net|thenightseries.net|fbseries.com|megacinefilmes.com|superflix.net|overflix.net|animescx.net|topflix.tv|vizer.tv,third-party
 magnific-popup.js$script
 
 !------------------------------------------------------------------!
