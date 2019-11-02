@@ -106,6 +106,7 @@ modal-extensao.*$domain=canaltech.com.br
 @@||ticket.com.br/souticket/assets/components/*$script,domain=ticket.com.br
 @@||ipinfo.io^$xmlhttprequest,domain=brasilbandalarga.com.br
 @@||www.isptools.com.br/js/ads.js$script,1p
+@@||onifile.com$generichide
 
 
 !------------------------------------------------------------------!
