@@ -85,6 +85,7 @@ fivewall.js*$script
 @@/ads.js$script,domain=adflyk.com|clk.sh|2fly.me|gamersclub.com.br
 @@||gamersclub.com.br/assets/js/shared/trackings/adsbygoogle.js
 @@||neowin.net$generichide
+@@||www.isptools.com.br/js/ads.js$script,1p
 
 !------------------------------------------------------------------!
 !------------------------- Aborrecimentos -------------------------!
