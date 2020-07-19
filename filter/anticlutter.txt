@@ -116,7 +116,7 @@ infomoney.com.br##+js(abort-on-property-read.js, addLink)
 theverge.com##+js(setTimeout-defuser.js, (), 1500)
 majorgeeks.com##+js(abort-on-property-read.js, googletag)
 majorgeeks.com##+js(abort-current-inline-script.js, document.getElementById, undefined)
-
+@@||hcaptcha.com
 
 !------------------------------------------------------------------!
 !-------------------------- Experimental --------------------------!
@@ -130,6 +130,9 @@ majorgeeks.com##+js(abort-current-inline-script.js, document.getElementById, und
 
 ! Bloqueia o stories na página inicial do Facebook
 !facebook.com###stories_pagelet_below_composer
+
+! Bloqueia a tela de branca de progaganda do YouTube
+youtube.com##+js(set, ytInitialPlayerResponse.adPlacements, undefined)
 
 !------------------------------------------------------------------!
 !----------------------------- Pop-ups ----------------------------!
