@@ -117,6 +117,7 @@ theverge.com##+js(setTimeout-defuser.js, (), 1500)
 majorgeeks.com##+js(abort-on-property-read.js, googletag)
 majorgeeks.com##+js(abort-current-inline-script.js, document.getElementById, undefined)
 @@||hcaptcha.com
+||pourdear.com^$script,domain=vizer.tv
 
 !------------------------------------------------------------------!
 !-------------------------- Experimental --------------------------!
