@@ -33,7 +33,7 @@ folha.uol.com.br##.c-push-notification
 ||*.estadao.com.br/paywall/*
 ||estadao.com.br/estadao/js/modules/navegg*$script
 ||estadao.com.br/web-push/modal-naoassinante$xmlhttprequest,first-party
-@@/s2016/portal/js/advertisement.js$script,domain=estadao.com.br,important
+@@/s2016/portal/js/advertisement.js$script,domain=estadao.com.br
 www.estadao.com.br##.assine-bar
 
 ! JOTA - https://jota.info
