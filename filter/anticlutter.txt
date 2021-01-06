@@ -118,6 +118,8 @@ majorgeeks.com##+js(abort-on-property-read.js, googletag)
 majorgeeks.com##+js(abort-current-inline-script.js, document.getElementById, undefined)
 @@||hcaptcha.com
 ||pourdear.com^$script,domain=vizer.tv
+@@||streameast.live^$generichide
+streameast.live##+js(nobab)
 
 !------------------------------------------------------------------!
 !-------------------------- Experimental --------------------------!
