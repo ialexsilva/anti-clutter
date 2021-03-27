@@ -120,6 +120,8 @@ majorgeeks.com##+js(abort-current-inline-script.js, document.getElementById, und
 ||pourdear.com^$script,domain=vizer.tv
 @@||streameast.live^$generichide
 streameast.live##+js(nobab)
+||cdn.pn.vg^$script,domain=r7.com
+||noticias.r7.com/pushnews-sw.js$xhr,1p
 
 !------------------------------------------------------------------!
 !-------------------------- Experimental --------------------------!
