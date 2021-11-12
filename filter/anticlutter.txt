@@ -139,6 +139,9 @@ streameast.live##+js(nobab)
 ! Bloqueia a tela de branca de progaganda do YouTube
 youtube.com##+js(set, ytInitialPlayerResponse.adPlacements, undefined)
 
+! Bloqueio de visto de stories no Instagram
+https://www.instagram.com/stories/reel/seen
+
 !------------------------------------------------------------------!
 !----------------------------- Pop-ups ----------------------------!
 !------------------------------------------------------------------!
