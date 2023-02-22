@@ -33,6 +33,7 @@ www1.folha.uol.com.br##.u-no-print.c-top-signup--close--bf-azul.c-top-signup--cl
 
 ! Estadão - https://estadao.com.br
 ||*.estadao.com.br/paywall/*
+estadao.com.br##paywall-wrapper-iframe-estadao
 ||estadao.com.br/estadao/js/modules/navegg*$script
 ||estadao.com.br/web-push/modal-naoassinante$xmlhttprequest,first-party
 @@/s2016/portal/js/advertisement.js$script,domain=estadao.com.br
