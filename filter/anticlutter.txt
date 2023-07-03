@@ -22,6 +22,9 @@ blogs.oglobo.globo.com###pub-fullbanner-1
 blogs.oglobo.globo.com###pub-box-materia
 oglobo.globo.com##.block__subpane--advertising.block__subpane
 
+! Folha de Londrina
+||www.netdeal.com.br^$domain=folhadelondrina.com.br
+
 ! Folha de S.Paulo - https://folha.uol.com.br
 ||paywall.folha.uol.com.br/*
 ||static.folha.uol.com.br/paywall/*
@@ -57,6 +60,10 @@ gazetadopovo.com.br##.c-assine-container
 /mtr.js$script,domain=nyt.com|nytimes.com
 nytimes.com##.InlineMessage-inline--2ysnq
 nytimes.com##.e1i2wxpm0.css-mlcs8h.shown
+||meter-svc.nytimes.com^$xhr,1p
+
+! The Economist
+||tinypass.com^$domain=economist.com
 
 ! Washington Post - https://washingtonpost.com
 ||*.washingtonpost.com/wp-stat/pwapi/*
@@ -65,6 +72,9 @@ nytimes.com##.e1i2wxpm0.css-mlcs8h.shown
 ||tinypass.com^$third-party
 tinypass.min.js*$script
 
+! New Statesman
+||ev.newstatesman.com/acd/api/*$xhr,1p
+
 ! Neatdeal - https://netdeal.com.br
 ||netdeal.com.br^$third-party
 netdeal.js*$script
@@ -72,6 +82,7 @@ netdeal.js*$script
 ! VEJA
 ! 2022-01-06 https://veja.abril.com.br
 ||authp.abril.com.br/paywall/*$xhr,1p
+||*.cloudfunctions.net^$xhr,domain=veja.abril.com.br
 
 ! Fivewall - https://fivewall.com.br
 ||fivewall.com.br^$third-party
