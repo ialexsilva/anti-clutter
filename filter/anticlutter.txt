@@ -168,10 +168,12 @@ magnific-popup.js$script
 !---------------------------- YOUTUBE -----------------------------!
 !------------------------------------------------------------------!
 
-youtube.com##+js(set, yt.config_.openPopupConfig.supportedPopups.adBlockMessageViewModel, false)
-youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
-youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
-youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
+www.youtube.com##+js(trusted-replace-fetch-response, '/("lastModified":"[^"]{3,}".*?)"adSlots.*?\}\]\}\}\],/', $1, url:player?key=)
+www.youtube.com##+js(trusted-replace-fetch-response, '/("lastModified":"[^"]{3,}".*?)"adPlacements.*?"\}\}\}\],/', $1, url:player?key=)
+www.youtube.com##+js(trusted-replace-fetch-response, '/("lastModified":"[^"]{3,}".*?)"playerAds.*?\}\}\],/', $1, url:player?key=)
+www.youtube.com#@#+js(trusted-replace-fetch-response, /(source=.*?)"adSlots.*?\}\]\}\}\]\,/, $1, url:player?key=)
+www.youtube.com#@#+js(trusted-replace-fetch-response, /(source=.*?)"adPlacements.*?"\}\}\}\]\,/, $1, url:player?key=)
+www.youtube.com#@#+js(trusted-replace-fetch-response, /(source=.*?)"playerAds.*?\}\}\]\,/, $1, url:player?key=)
 
 !------------------------------------------------------------------!
 !--------------------------- Stylesheet ---------------------------!
