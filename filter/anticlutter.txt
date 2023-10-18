@@ -165,13 +165,19 @@ youtube.com##+js(set, ytInitialPlayerResponse.adPlacements, undefined)
 magnific-popup.js$script
 
 !------------------------------------------------------------------!
+!---------------------------- YOUTUBE -----------------------------!
+!------------------------------------------------------------------!
+
+youtube.com##+js(set, yt.config_.openPopupConfig.supportedPopups.adBlockMessageViewModel, false)
+youtube.com##+js(set, Object.prototype.adBlocksFound, 0)
+youtube.com##+js(set, ytplayer.config.args.raw_player_response.adPlacements, [])
+youtube.com##+js(set, Object.prototype.hasAllowedInstreamAd, true)
+
+!------------------------------------------------------------------!
 !--------------------------- Stylesheet ---------------------------!
 !------------------------------------------------------------------!
 
-punchsubs.net###anunciosModal
-punchsubs.net##.show.fade.modal-backdrop
 omelete.com.br##.banner
-outline.com##.noselect.footer
 r7.com###vertical-header-ads
 ahnegao.com.br##.le-publicidade
 artstation.com##support-artstation-block
