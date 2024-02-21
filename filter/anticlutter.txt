@@ -33,6 +33,8 @@ folha.uol.com.br##bt-read-more-content
 folha.uol.com.br##.c-push-notification
 ! 2022-12-06 https://www1.folha.uol.com.br
 www1.folha.uol.com.br##.u-no-print.c-top-signup--close--bf-azul.c-top-signup--close--bf.c-top-signup--close.c-top-signup--fix.c-top-signup
+! 2024-02-21 https://www.folha.uol.com.br
+www.folha.uol.com.br##.u-no-print.c-top-signup--close--bf-bf-azul.c-top-signup--close--bf.c-top-signup--close.c-top-signup--fix.c-top-signup
 
 ! Estadão - https://estadao.com.br
 ||*.estadao.com.br/paywall/*
