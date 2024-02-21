@@ -110,6 +110,9 @@ fivewall.js*$script
 !------------------------------------------------------------------!
 
 *betterpop*$script,first-party
+! 2024-02-21 https://statusinvest.com.br
+statusinvest.com.br##.undefined.popup-fixed
+statusinvest.com.br##.container-home-ads-thin.container
 ||sendpulse.com^$third-party
 ||livejasmin.com^$document
 ||bet365.com^$document
