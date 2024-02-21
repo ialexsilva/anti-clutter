@@ -111,7 +111,7 @@ fivewall.js*$script
 
 *betterpop*$script,first-party
 ! 2024-02-21 https://statusinvest.com.br
-statusinvest.com.br##.undefined.popup-fixed
+statusinvest.com.br##.to-load.pt-5.pr-sm-0.pl-sm-0.ads-lazy-group
 statusinvest.com.br##.container-home-ads-thin.container
 ||sendpulse.com^$third-party
 ||livejasmin.com^$document
@@ -166,17 +166,8 @@ youtube.com##+js(set, ytInitialPlayerResponse.adPlacements, undefined)
 
 *$popup,domain=filmesonlinehd1x.com|mmfilmes.tv|megafilmesahd.com|assistirfilmesonline.cc|thenightfilmes.net|thenightseries.net|fbseries.com|megacinefilmes.com|superflix.net|overflix.net|animescx.net|topflix.tv|vizer.tv,third-party
 magnific-popup.js$script
-
-!------------------------------------------------------------------!
-!---------------------------- YOUTUBE -----------------------------!
-!------------------------------------------------------------------!
-
-www.youtube.com##+js(trusted-replace-fetch-response, '/("lastModified":"[^"]{3,}".*?)"adSlots.*?\}\]\}\}\],/', $1, url:player?key=)
-www.youtube.com##+js(trusted-replace-fetch-response, '/("lastModified":"[^"]{3,}".*?)"adPlacements.*?"\}\}\}\],/', $1, url:player?key=)
-www.youtube.com##+js(trusted-replace-fetch-response, '/("lastModified":"[^"]{3,}".*?)"playerAds.*?\}\}\],/', $1, url:player?key=)
-www.youtube.com#@#+js(trusted-replace-fetch-response, /(source=.*?)"adSlots.*?\}\]\}\}\]\,/, $1, url:player?key=)
-www.youtube.com#@#+js(trusted-replace-fetch-response, /(source=.*?)"adPlacements.*?"\}\}\}\]\,/, $1, url:player?key=)
-www.youtube.com#@#+js(trusted-replace-fetch-response, /(source=.*?)"playerAds.*?\}\}\]\,/, $1, url:player?key=)
+! 2024-02-21 https://statusinvest.com.br
+statusinvest.com.br##.undefined.popup-fixed
 
 !------------------------------------------------------------------!
 !--------------------------- Stylesheet ---------------------------!
